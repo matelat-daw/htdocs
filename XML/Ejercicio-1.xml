@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Libros>
-    <Libro>
-        <title>Sueño de una Noche de Verano</title>
-        <author>William Shakespeare</author>
-        <year>1600</year>
-    </Libro>
-    <Libro>
-        <title>Don Quixote de La Mancha</title>
-        <author>Miguel de Cervantes Saavedra</author>
-        <year>1605</year>
-    </Libro>
-    <Libro>
-        <title>El Gaucho Martín Fierro</title>
-        <author>José Hernández</author>
-        <year>1872</year>
-    </Libro>
+    <Libro title="Sueño de una Noche de Verano" author="William Shakespeare" year="1600"></Libro>
+    <Libro title="Don Quixote de La Mancha" author="Miguel de Cervantes Saavedra" year="1605"></Libro>
+    <Libro title="El Gaucho Martín Fierro" author="José Hernández" year="1872"></Libro>
 </Libros>
