@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalogo>
+    <Ordenadores>
+        <Portatiles>
+            <name>HP Pavilion</name>
+            <desc>Potente Portátil de 17" Resolución HD 1080</desc>
+            <price>1500 €</price>
+            <Caracteristicas>
+                <cpu>Core i7 13400</cpu>
+                <memory>16 GBytes 2400 MHz.</memory>
+                <SSD>NVE M2 1 Tera</SSD>
+            </Caracteristicas>
+        </Portatiles>
+        <PC/>
+    </Ordenadores>
+    <Consolas>
+        <Consola>
+            <name>Play Station 6</name>
+            <price>750 €</price>
+            <Caracteristicas>
+                <cpu>Sony 38000</cpu>
+                <memory>16 GBytes 2400 MHz.</memory>
+                <SSD>NVE M2 1 Tera</SSD>
+            </Caracteristicas>
+        </Consola>
+    </Consolas>
+    <TV/>
+</Catalogo>

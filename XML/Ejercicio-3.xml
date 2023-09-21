@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Empresa>
+    <Emplados>
+        <Empleado>
+            <name>Ana</name>
+            <surname1>García</surname1>
+            <surname2></surname2>
+            <yearsold>30</yearsold>
+            <department>Ventas</department>
+            <position>Ejecutiva de Ventas</position>
+        </Empleado>
+        <Empleado>
+            <name>Luis</name>
+            <surname1>Rodríguez</surname1>
+            <surname2></surname2>
+            <yearsold>45</yearsold>
+            <department>Finanzas</department>
+            <position>Analista Financiero</position>
+        </Empleado>
+        <Empleado>
+            <name>María</name>
+            <surname1>López</surname1>
+            <surname2></surname2>
+            <yearsold>28</yearsold>
+            <department>Marketing</department>
+            <position>Especialista en Redes Sociales</position>
+        </Empleado>
+    </Emplados>
+</Empresa>
