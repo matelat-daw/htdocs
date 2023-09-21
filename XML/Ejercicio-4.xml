@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Articulos>
+    <Articulo>
+        <ID>1001</ID>
+        <name>Resma de papel A4</name>
+        <decription>500 hojas de papel</decription>
+        <price>5.00 €</price>
+        <category>papeleria</category>
+        <disponibility>true</disponibility>
+        <img>img/resma.jpg</img>
+    </Articulo>
+    <Articulo>
+        <ID>2001</ID>
+        <name>Boligrafo Bic</name>
+        <decription>Boligrafo de tinta color azul marca Bic</decription>
+        <price>.25 €</price>
+        <category>escritura</category>
+        <disponibility>true</disponibility>
+        <img>img/boli.jpg</img>
+    </Articulo>
+    <Articulo>
+        <ID>2002</ID>
+        <name>Boligrafo Parker</name>
+        <decription>Boligrafo de tinta color azul marca Parker</decription>
+        <price>10 €</price>
+        <category>escritura</category>
+        <disponibility>true</disponibility>
+        <img>img/parker.jpg</img>
+    </Articulo>
+    <Articulo>
+        <ID>3001</ID>
+        <name>Goma de Borrar Doble</name>
+        <decription>Goma Dos Banderas para borrar lapiz y tinta (artículo importado)</decription>
+        <price>1.20 €</price>
+        <category>borrado</category>
+        <disponibility>false</disponibility>
+        <img>img/goma-arg.jpg</img>
+    </Articulo>
+    <Articulo>
+        <ID>3002</ID>
+        <name>Goma de Borrar Blanca</name>
+        <decription>Goma Faber Castell para borrar lapiz</decription>
+        <price>.90 €</price>
+        <category>borrado</category>
+        <disponibility>false</disponibility>
+        <img>img/goma-faber-white.jpg</img>
+    </Articulo>
+</Articulos>
