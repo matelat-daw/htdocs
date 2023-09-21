@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Albumes>
+    <Album ID="1">
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>12/04/1968</date>
+            <camera>Ziess Icon</camera>
+            <people>Me</people>
+            <momento>UNa semana después de nacer</momento>
+        </Foto>
+        <Foto>
+            <place></place>
+            <date></date>
+            <camera></camera>
+            <people></people>
+            <momento></momento>
+        </Foto>
+        <Foto>
+            <place></place>
+            <date></date>
+            <camera></camera>
+            <people></people>
+            <momento></momento>
+        </Foto>
+    </Album>
+    <Album ID="2">
+        <Foto>
+            <place></place>
+            <date></date>
+            <camera></camera>
+            <people></people>
+            <momento></momento>
+        </Foto>
+        <Foto>
+            <place></place>
+            <date></date>
+            <camera></camera>
+            <people></people>
+            <momento></momento>
+        </Foto>
+        <Foto>
+            <place></place>
+            <date></date>
+            <camera></camera>
+            <people></people>
+            <momento></momento>
+        </Foto>
+    </Album>
+</Albumes>
