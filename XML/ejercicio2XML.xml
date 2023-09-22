@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<emails>
+    <email>
+        <from>Mr. Nobody</from>
+        <tos>
+            <to>Somebody</to>
+            <to>Some Other</to>
+        </tos>
+        <subject>Regards</subject>
+        <body>Mr. Somebody &amp; Mr. Some Other, We salute You.</body>
+        <attached>
+            <attach>file://img/some.jpg</attach>
+            <attach>file://img/some-other.jpg</attach>
+        </attached>
+    </email>
+    <email>
+        <from>With Love from Me to You</from>
+        <tos>
+            <to>You</to>
+            <to>You</to>
+            <to>You</to>
+        </tos>
+        <subject>Love</subject>
+        <body>I love You, You, You.</body>
+        <attached>
+            <attach>file://img/love.jpg</attach>
+            <attach>file://img/heart.jpg</attach>
+        </attached>
+    </email>
+</emails>
