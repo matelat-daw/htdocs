@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Geografias>
  <geografia name="mundial">
   <paises>
     <pais>España</pais>
@@ -8,13 +7,5 @@
     <pais>Argentina</pais>
     <continente>América</continente>
     <capital>Bueno Aires</capital>
- </paises>
-</geografia>
-<geografia name="asia">
-  <paises>
-    <pais>China</pais>
-    <continente>Asia</continente>
-    <capital nombre="Beijing"></capital>
   </paises>
 </geografia>
-</Geografias>
