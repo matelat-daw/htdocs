@@ -25,6 +25,7 @@
         <attached>
             <attach>file://img/love.jpg</attach>
             <attach>file://img/heart.jpg</attach>
+            <attach>LoveLetter.pfd</attach>
         </attached>
     </email>
 </emails>
