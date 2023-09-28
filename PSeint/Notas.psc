@@ -4,7 +4,7 @@ Algoritmo Notas
 	Escribir "Ingresa la nota del Alumno: " Sin Saltar;
 	Leer nota;
 	Segun nota Hacer
-		1, 2, 3, 4:
+		0, 1, 2, 3, 4:
 			Escribir "Un desastre Esfuerzate más.";
 		5, 6:
 			Escribir "Haz Aprobado";
