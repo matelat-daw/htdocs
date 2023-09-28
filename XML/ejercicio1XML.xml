@@ -9,7 +9,7 @@
  </comida>
 <menu caro="25">
   <comida>
-   <primero>entremeses</primero><opcion tipo="ibericos"/>
+   <primero>entremeses</primero><opcion tipo="ibéricos"/>
    <segundo>chuleton</segundo><opcion tipo="ternera"/>
    <postre>arroz con leche</postre><opcion tipo="casero"/>
    <bebida size="1">rioja</bebida>
