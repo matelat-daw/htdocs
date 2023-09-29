@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Albumes SYSTEM "DTD/albumes.dtd">
+
+<Albumes>
+    <Album>
+        <ID>1</ID>
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>12/04/1968</date>
+            <camera>Zeiss Icon</camera>
+            <people>Me</people>
+            <modelo>Antique Camera</modelo>
+        </Foto>
+        <ID>2</ID>
+        <Foto>
+            <place>Tenerife</place>
+            <date>07-09-2002</date>
+            <camera>Cannon</camera>
+            <people>Me</people>
+            <modelo>EOS 90D</modelo>
+        </Foto>
+        <ID>3</ID>
+        <Foto>
+            <place>La Palma</place>
+            <date>15-04-2005</date>
+            <camera>Sony</camera>
+            <people>Me</people>
+            <modelo>Telephone</modelo>
+        </Foto>
+    </Album>
+    <Album>
+        <ID>1</ID>
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>01-09-2007</date>
+            <camera>Samsung</camera>
+            <people>Me</people>
+            <modelo>Telephone</modelo>
+        </Foto>
+        <ID>2</ID>
+        <Foto>
+            <place>Barcelona</place>
+            <date>01-07-2007</date>
+            <camera>Samsung</camera>
+            <people>Me</people>
+            <modelo>Telephone</modelo>
+        </Foto>
+        <ID>3</ID>
+        <Foto>
+            <place>País Vasco</place>
+            <date>05-01-2012</date>
+            <camera>Sony</camera>
+            <people>Me</people>
+            <modelo>Telephone</modelo>
+        </Foto>
+    </Album>
+</Albumes>

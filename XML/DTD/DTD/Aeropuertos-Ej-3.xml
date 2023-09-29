@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE aeropuertos [
   <!ELEMENT aeropuertos (aeropuerto*)>
-  <!ELEMENT aeropuerto (nombre, cerrado*)>
+  <!ELEMENT aeropuerto (nombre, cerrado?)> <!-- Con ? puede o no aparecer. -->
   <!ELEMENT nombre (#PCDATA)>
-  <!ELEMENT cerrado (#PCDATA)>
+  <!-- <!ELEMENT cerrado (#PCDATA)> Mejor si la etiqueta cerrado este EMPTY. -->
+  <!ELEMENT cerrado EMPTY>
 ]>
 
 <aeropuertos>

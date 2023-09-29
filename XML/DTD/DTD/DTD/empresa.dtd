@@ -1,0 +1,8 @@
+<!ELEMENT Empresa (Empleado*)>
+<!ELEMENT Empleado (name, surname1, surname2, yearsold, department, position)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname1 (#PCDATA)>
+<!ELEMENT surname2 (#PCDATA)>
+<!ELEMENT yearsold (#PCDATA)>
+<!ELEMENT department (#PCDATA)>
+<!ELEMENT position (#PCDATA)>

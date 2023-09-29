@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reyesEspanioles [
-  <!ELEMENT reyesEspanioles ((rey*, reina*) | (rey*, reina*, rey*))>
+  <!ELEMENT reyesEspanioles (rey | reina)*>
   <!ELEMENT rey (nombre, padre, madre)>
   <!ELEMENT reina (nombre, padre, madre)>
   <!ELEMENT nombre (#PCDATA)>
