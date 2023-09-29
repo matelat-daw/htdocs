@@ -9,7 +9,7 @@
             <date>12/04/1968</date>
             <camera>Zeiss Icon</camera>
             <people>Me</people>
-            <modelo>Antique Camera</modelo>
+            <monument>Torreón del Monje</monument>
         </Foto>
         <ID>2</ID>
         <Foto>
@@ -17,7 +17,7 @@
             <date>07-09-2002</date>
             <camera>Cannon</camera>
             <people>Me</people>
-            <modelo>EOS 90D</modelo>
+            <monument>Cima de El Teide</monument>
         </Foto>
         <ID>3</ID>
         <Foto>
@@ -25,7 +25,7 @@
             <date>15-04-2005</date>
             <camera>Sony</camera>
             <people>Me</people>
-            <modelo>Telephone</modelo>
+            <monument>El Roque de Los Muchachos</monument>
         </Foto>
     </Album>
     <Album>
@@ -35,7 +35,7 @@
             <date>01-09-2007</date>
             <camera>Samsung</camera>
             <people>Me</people>
-            <modelo>Telephone</modelo>
+            <monument>Playa La Perla</monument>
         </Foto>
         <ID>2</ID>
         <Foto>
@@ -43,7 +43,7 @@
             <date>01-07-2007</date>
             <camera>Samsung</camera>
             <people>Me</people>
-            <modelo>Telephone</modelo>
+            <monument>El Mont Juic</monument>
         </Foto>
         <ID>3</ID>
         <Foto>
@@ -51,7 +51,7 @@
             <date>05-01-2012</date>
             <camera>Sony</camera>
             <people>Me</people>
-            <modelo>Telephone</modelo>
+            <monument>Barakaldo</monument>
         </Foto>
     </Album>
 </Albumes>
