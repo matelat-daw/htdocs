@@ -18,7 +18,8 @@ public class Intercambiador
 		//       according to the variable type, say nextInt(). 
 
 		System.out.println("Ingresa un Número");
-		var num = (new Scanner(System.in)).nextLine();
+		// var num = (new Scanner(System.in)).nextLine();
+		var num = (new Scanner(System.in)).next();
 		// Ingresa el número por teclado.
 		var resto1 = Integer.parseInt(num) % 10; // Le aplico el modulo 10, el resto de la división será el último número y se lo asigno a la variable resto1.
 		var num2 = Integer.parseInt(num) / 10; // Trunco la división del número por 10 para obtener la parte entera y lo asigno a la variable num2.
