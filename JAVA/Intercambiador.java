@@ -4,7 +4,6 @@ import java.util.Scanner;
  */
 public class Intercambiador
 {
-
 	/**
 	 * @param args
 	 */
@@ -32,5 +31,4 @@ public class Intercambiador
 		System.out.println("El resultado es: " + result);
 		scanner.close();
 	}
-
 }
