@@ -48,7 +48,7 @@ Algoritmo Helado
 		Escribir "Total a pagar por tu Helado: " precio;
 		exit = Falso;
 		Escribir "";
-		Escribir "¿Deseas Efectuar Otra Evaluación? N o n para Salir, Cualquier Otra Tecla para Continuar: ";
+		Escribir "¿Deseas Comprar Otro Helado? N o n para Salir, Cualquier Otra Tecla para Continuar: ";
 		Leer char;
 		Borrar Pantalla;
 		Si char == "n" O char == "N" Entonces
