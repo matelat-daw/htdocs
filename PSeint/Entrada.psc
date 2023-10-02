@@ -1,5 +1,5 @@
 Algoritmo Entrada
-	Definir edad Como Real;
+	Definir edad Como Entero;
 	Definir char Como Caracter;
 	Definir salir Como Logico;
 	salir = Falso;
