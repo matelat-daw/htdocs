@@ -1,33 +1,41 @@
 import java.util.Scanner;
 
-/**
- */
 public class Parking
 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args)
 	{
-		
-		// TODO: Check and accomplish variable declarations: 
-
-		// TODO: You may have to modify input instructions, 
-		//       e.g. by replacing nextLine() with a more suitable call 
-		//       according to the variable type, say nextInt(). 
-
+		var exit = false;
 		var precio_hora = 1.5;
-		System.out.println("Cuantas Horas has Aparcado:");
-        Scanner scanner = new Scanner(System.in);
-		var hour = (scanner).next();
-		System.out.println("Cuantos Minutos has Aparcado:");
-        Scanner scanner2 = new Scanner(System.in);
-		var minute = (scanner2).next();
-		var hour_total = Double.valueOf(hour) + Double.valueOf(minute) / 60;
-		var precio_final = precio_hora * hour_total;
-		System.out.println("Total a Pagar: " + precio_final + " €");
-        scanner.close();
-        scanner2.close();
+		var hour = 0.0;
+		var minute = 0.0;
+		var total = 0.0;
+		var precio = 0.0;
+		var again = "";
+		Scanner hour_scann;
+		Scanner min_scann;
+		Scanner again_scann;
+
+		while (!exit)
+		{
+			System.out.println("Cuantas Horas has Aparcado:");
+			hour_scann = new Scanner(System.in);
+			hour = Double.valueOf(hour_scann.next());
+			System.out.println("Cuantos Minutos has Aparcado:");
+			min_scann = new Scanner(System.in);
+			minute = Double.valueOf(min_scann.next());
+			total = hour + minute / 60;
+			precio = precio_hora * total;
+			System.out.println("Total a Pagar: " + precio + " €");
+			System.out.println("Deseas Pagar Otro Ticket (n/N) Para Salir, Cualquier Otra para Continuar Además de Enter?");
+			again_scann = new Scanner(System.in);
+			again = again_scann.next();
+			if (again.equals("n") || again.equals("N"))
+			{
+				exit = true;
+				again_scann.close();
+				min_scann.close();
+				hour_scann.close();
+			}
+		}
 	}
 }
