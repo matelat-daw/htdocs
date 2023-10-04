@@ -20,8 +20,6 @@ Algoritmo Almacen
 		Escribir "¿Deseas Hacer Otro Cálculo? N o n para Salir, Cualquier Otra Tecla para Continuar: ";
 		Leer char;
 		Borrar Pantalla;
-		Si char == "n" O char == "N" Entonces
-			salir = Verdadero;
-		FinSi
+		salir =  char == "n" O char == "N";
 	FinMientras
 FinAlgoritmo
