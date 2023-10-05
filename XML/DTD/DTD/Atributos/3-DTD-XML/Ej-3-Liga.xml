@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liga [
+  <!ELEMENT Liga (Equipo*)>
+  <!ELEMENT Equipo (#PCDATA)>
+  <!ATTLIST Equipo local CDATA #IMPLIED>
+  <!ATTLIST Equipo visita CDATA #IMPLIED>
+  <!ATTLIST Equipo gol_local CDATA #IMPLIED>
+  <!ATTLIST Equipo gol_visita CDATA #IMPLIED>
+]>
+
+<Liga>
+    <Equipo local="Nottingham Presa" gol_local="0" visita="Inter de Mitente" gol_visita="1">
+    </Equipo>
+    <Equipo local="Vodka Juniors" gol_local="3" visita="Sparta da Risa" gol_visita="3">
+    </Equipo>
+    <Equipo local="Water de Munich" gol_local="4" visita="Esteaua es del grifo" gol_visita="2">
+    </Equipo>
+</Liga>
