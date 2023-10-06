@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bib [
+  <!ELEMENT bib (Libro*)>
+  <!ELEMENT Libro (title, (author+ | editor), publisher, price)>
+  <!ELEMENT author (last, first)>
+  <!ELEMENT editor (last, first, afiliation)>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT last (#PCDATA)>
+  <!ELEMENT first (#PCDATA)>
+  <!ELEMENT afiliation (#PCDATA)>
+  <!ELEMENT publisher (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ATTLIST Libro year NMTOKENS #REQUIRED>
+]>
+
+<bib>
+    <Libro year="1994">
+        <title>TCP/IP Ilustrated</title>
+        <author><last>Stevens</last><first>W.</first></author>
+        <publisher>Addison-Wesley</publisher>
+        <price>65.95</price>
+    </Libro>
+    <Libro year="1992">
+        <title>Advanced Programming in the Unix Envaironment</title>
+        <author><last>Stevens</last><first>W.</first></author>
+        <publisher>Addison-Wesley</publisher>
+        <price>65.95</price>
+    </Libro>
+    <Libro year="2000">
+        <title>Data on the Web</title>
+        <author><last>Abiteboul</last><first>Serge</first></author>
+        <author><last>Buneman</last><first>Peter</first></author>
+        <author><last>Suciu</last><first>Dan</first></author>
+        <publisher>Morgan Kaufmann Publisher</publisher>
+        <price>39.95</price>
+    </Libro>
+    <Libro year="1999">
+        <title>The Economics of Technology and Content for Digital TV</title>
+        <editor><last>Gervard</last><first>Darcy</first><afiliation>CITI</afiliation></editor>
+        <publisher>Kluwer Academics Publisher</publisher>
+        <price>129.95</price>
+    </Libro>
+</bib>

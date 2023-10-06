@@ -3,8 +3,8 @@
   <!ELEMENT Libros (Libro*)>
   <!ELEMENT Libro EMPTY>
   <!ATTLIST Libro author NMTOKENS #REQUIRED
-                    title NMTOKENS #REQUIRED
-                    year NMTOKENS #REQUIRED>
+                  title NMTOKENS #REQUIRED
+                  year NMTOKENS #REQUIRED>
 
 ]>
 

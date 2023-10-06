@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CVS [
+  <!ELEMENT CVS (CV*)>
+  <!ELEMENT CV (DatosPersonales, Idiomas)>
+  <!ELEMENT DatosPersonales (name, surname1, surname2, bday, Addresses)>
+  <!ELEMENT Idiomas (Idioma*)>
+  <!ELEMENT Idioma (name, level)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT surname1 (#PCDATA)>
+  <!ELEMENT surname2 (#PCDATA)>
+  <!ELEMENT bday (#PCDATA)>
+  <!ELEMENT level (alto | medio | bajo)>
+  <!ELEMENT Addresses (address1, address2?)?>
+  <!ELEMENT address1 (#PCDATA)>
+  <!ELEMENT address2 (#PCDATA)>
+  <!ATTLIST CV dni NMTOKENS #REQUIRED
+               cv-date NMTOKENS #REQUIRED>
+  <!ATTLIST Idioma lengua (M | E) VALUE #REQUIRED>
+]>
+
+<CVS>
+    <CV dni="dni:42268151Q" cv-date="06/10/2023">
+        <DatosPersonales>
+            <name>César Osvaldo</name>
+            <surname1>Matelat</surname1>
+            <surname2>Borneo</surname2>
+            <bday>05-04-1968</bday>
+            <Addresses>
+                <address1>Calle Fermín Morín Nº X</address1>
+            </Addresses>
+        </DatosPersonales>
+        <Idiomas>
+            <Idioma lengua="M">
+                <name>Español</name>
+                <level>alto</level>
+            </Idioma>
+            <Idioma>
+                <name>Inglés</name>
+                <level>Medio</level>
+            </Idioma>
+            <Idioma>
+                <name>Portugués</name>
+                <level>bajo</level>
+            </Idioma>
+        </Idiomas>
+    </CV>
+    <CV dni="dni:42268151Q" cv-date="06/10/2023">
+        <DatosPersonales>
+            <name>César Osvaldo</name>
+            <surname1>Matelat</surname1>
+            <surname2>Borneo</surname2>
+            <bday>05-04-1968</bday>
+            <Addresses>
+                <address1>Calle Fermín Morín Nº X</address1>
+            </Addresses>
+        </DatosPersonales>
+        <Idiomas>
+            <Idioma lengua="M">
+                <name>Español</name>
+                <level>alto</level>
+            </Idioma>
+            <Idioma>
+                <name>Inglés</name>
+                <level>Medio</level>
+            </Idioma>
+            <Idioma>
+                <name>Portugués</name>
+                <level>bajo</level>
+            </Idioma>
+        </Idiomas>
+    </CV>
+</CVS>
