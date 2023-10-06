@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Albumes [
+  <!ELEMENT Albumes (Album*)>
+  <!ELEMENT Album (Foto*)>
+  <!ELEMENT Foto (place, date, camera, people, monumento)>
+  <!ELEMENT place (#PCDATA)>
+  <!ELEMENT date (#PCDATA)>
+  <!ELEMENT camera (#PCDATA)>
+  <!ELEMENT people (#PCDATA)>
+  <!ELEMENT monumento (#PCDATA)>
+  <!ATTLIST Album ID ID #REQUIRED>
+  ]>
+
 <Albumes>
-    <Album ID="1">
+    <Album ID="A1">
         <Foto>
             <place>Mar del Plata</place>
             <date>12/04/1968</date>
             <camera>Ziess Icon</camera>
             <people>Me</people>
-            <monumento>UNa semana después de nacer</monumento>
+            <monumento>La Rambla de Mar del Plata</monumento>
         </Foto>
         <Foto>
             <place>Barcelona</place>
