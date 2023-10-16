@@ -36,9 +36,10 @@ include "includes/nav-mob-index.html";
                         <br>
                         <label id="email" style="visibility: hidden;"><input type="email" id="em" name="email"> Dame tu E-mail</label>
                         <br><br>
-                        <input type="submit" id="change" value="Contacto" class="btn btn-primary">
+                        <input type="submit" id="change" value="Contacto" class="btn btn-primary btn-lg">
                         <br><br>
                     </form>
+                    <br><br><br>
                 </div>
             </div>
         <div class='col-sm-1'></div>

@@ -307,7 +307,7 @@ function changeit() // Función para la página de contacto.
                 email.style.visibility = "visible";
                 phone.style.visibility = "hidden";
                 ph.required = false;
-                ph.value = 1;
+                // ph.value = 1;
                 em.required = true;
                 button.value = "Espero tu E-mail";
                 break;
