@@ -290,26 +290,26 @@ function changeit() // Función para la página de contacto.
         switch (contact.value) // Hago un switch al valor en el selector.
         {
             case "Teléfono":
-                email.style.visibility = "hidden";
-                phone.style.visibility = "visible";
                 em.required = false;
                 ph.required = true;
                 button.value = "Llamame!";
-                break;
-            case "Whatsapp":
                 email.style.visibility = "hidden";
                 phone.style.visibility = "visible";
+                break;
+            case "Whatsapp":
                 em.required = false;
                 ph.required = true;
                 button.value = "Mandame un Guasap";
+                email.style.visibility = "hidden";
+                phone.style.visibility = "visible";
                 break;
             default:
-                email.style.visibility = "visible";
-                phone.style.visibility = "hidden";
                 ph.required = false;
-                // ph.value = 1;
+                ph.value = 1;
                 em.required = true;
                 button.value = "Espero tu E-mail";
+                email.style.visibility = "visible";
+                phone.style.visibility = "hidden";
                 break;
         }
     }
