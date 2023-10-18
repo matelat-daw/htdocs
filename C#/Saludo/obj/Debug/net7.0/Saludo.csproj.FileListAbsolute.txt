@@ -1,0 +1,14 @@
+C:\Users\orion\source\repos\Saludo\bin\Debug\net7.0\Saludo.exe
+C:\Users\orion\source\repos\Saludo\bin\Debug\net7.0\Saludo.deps.json
+C:\Users\orion\source\repos\Saludo\bin\Debug\net7.0\Saludo.runtimeconfig.json
+C:\Users\orion\source\repos\Saludo\bin\Debug\net7.0\Saludo.dll
+C:\Users\orion\source\repos\Saludo\bin\Debug\net7.0\Saludo.pdb
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.AssemblyInfoInputs.cache
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.AssemblyInfo.cs
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.dll
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\refint\Saludo.dll
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.pdb
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\Saludo.genruntimeconfig.cache
+C:\Users\orion\source\repos\Saludo\obj\Debug\net7.0\ref\Saludo.dll

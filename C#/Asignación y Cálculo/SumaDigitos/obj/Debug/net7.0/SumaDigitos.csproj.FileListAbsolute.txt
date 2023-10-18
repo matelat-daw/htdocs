@@ -1,0 +1,14 @@
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\bin\Debug\net7.0\SumaDigitos.exe
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\bin\Debug\net7.0\SumaDigitos.deps.json
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\bin\Debug\net7.0\SumaDigitos.runtimeconfig.json
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\bin\Debug\net7.0\SumaDigitos.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\bin\Debug\net7.0\SumaDigitos.pdb
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfoInputs.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfo.cs
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\refint\SumaDigitos.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.pdb
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\SumaDigitos.genruntimeconfig.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\SumaDigitos\obj\Debug\net7.0\ref\SumaDigitos.dll
