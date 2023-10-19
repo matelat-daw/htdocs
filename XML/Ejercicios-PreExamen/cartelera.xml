@@ -16,8 +16,8 @@
   <!ELEMENT cartel (#PCDATA)>
   <!ATTLIST película código CDATA #REQUIRED
                      duración CDATA #REQUIRED
-                     año CDATA #REQUIRED>
-  <!ATTLIST clasificación edad CDATA #REQUIRED>
+                     año CDATA "2003">
+  <!ATTLIST clasificación edad (tp | 8 | 12 | 16 | 18) #REQUIRED>
 ]>
 
 <cartelera>

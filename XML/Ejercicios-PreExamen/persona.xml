@@ -11,9 +11,9 @@
   <!ELEMENT provincia (#PCDATA)>
   <!ELEMENT cpostal (#PCDATA)>
   <!ELEMENT genero (#PCDATA)>
-  <!ATTLIST nacimiento day CDATA #IMPLIED
-                        month CDATA #IMPLIED
-                        year CDATA #IMPLIED>
+  <!ATTLIST nacimiento day CDATA #REQUIRED
+                        month CDATA #REQUIRED
+                        year CDATA #REQUIRED>
 ]>
 
 <Personas>
