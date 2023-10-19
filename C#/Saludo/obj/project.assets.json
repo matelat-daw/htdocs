@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orion\\source\\repos\\Saludo\\Saludo.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\C#\\Saludo\\Saludo.csproj",
       "projectName": "Saludo",
-      "projectPath": "C:\\Users\\orion\\source\\repos\\Saludo\\Saludo.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\C#\\Saludo\\Saludo.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orion\\source\\repos\\Saludo\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\C#\\Saludo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

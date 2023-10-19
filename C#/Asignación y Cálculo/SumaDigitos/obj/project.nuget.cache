@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymQB9b/G8sXfcIVZI/itfxSastQ10/AZ+h7tQkg2J2RPpDEzbkaefrjWT+FBtciIy6vhZ4+Ol+xDDGYRcZarVA==",
+  "dgSpecHash": "n7h+bQi2gf2ORdJgJYTcoUNmcO19pM6KRq3jgQQqvm0ZjbZyjlWFFmToCVrRupZA4idFg5zFVoBFoMXiU8ltRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orion\\source\\repos\\Asignación y Cálculo\\SumaDigitos\\SumaDigitos.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\C#\\Asignación y Cálculo\\SumaDigitos\\SumaDigitos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

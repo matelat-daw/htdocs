@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orion\\source\\repos\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\C#\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
       "projectName": "Ejercicio-5",
-      "projectPath": "C:\\Users\\orion\\source\\repos\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\C#\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orion\\source\\repos\\Ejercicio-5\\Ejercicio-5\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\C#\\Ejercicio-5\\Ejercicio-5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
