@@ -18,21 +18,22 @@ public class Euclides
 		int org2;
         int tmp;
         int resto = 1;
+		Scanner scann1;
+		Scanner scann2;
 
 		// TODO: You may have to modify input instructions, 
 		//       e.g. by replacing nextLine() with a more suitable call 
 		//       according to the variable type, say nextInt(). 
 
 		System.out.println("Introduce el primero Número: ");
-		num1 = Integer.valueOf((new Scanner(System.in)).nextLine());
+		scann1 = new Scanner(System.in);
+		num1 = Integer.valueOf((scann1).nextLine());
         org1 = num1;
+		scann2 = new Scanner(System.in);
 		System.out.println("Introduce el Segundo Número: ");
-		num2 = Integer.valueOf((new Scanner(System.in)).nextLine());
+		num2 = Integer.valueOf((scann2).nextLine());
         org2 = num2;
-		if (num1 < num2)
-		{
-		}
-		else
+		if (num1 > num2)
 		{
 			tmp = num1;
 			num1 = num2;
@@ -44,6 +45,8 @@ public class Euclides
 			num2 = num1;
 			num1 = resto;
 		}
+		scann1.close();
+		scann2.close();
         System.out.println("El Máximo Común Divisor de: " + org1 + " y " + org2 + " es: " + num2);
 	}
 
