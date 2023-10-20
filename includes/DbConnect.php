@@ -3,7 +3,7 @@ class DbConnect {
 	private $host = 'localhost';
 	private $dbName = 'notificaciones';
 	private $user = 'root';
-	private $pass = '';
+	private $pass = 'Anubis68';
 
 	public function connect() {
 		try {
