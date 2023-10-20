@@ -1,0 +1,19 @@
+<!ELEMENT facturas (factura*)>
+<!ELEMENT factura (datos-emisor, datos-cliente, detalle-factura)*>
+<!ELEMENT datos-emisor (nombre, cif, teléfono?)>
+<!ELEMENT datos-cliente (nombre, cif, teléfono+)>
+<!ELEMENT detalle-factura (línea+)>
+<!ELEMENT línea (descripción, cantidad, oferta?, pvp)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cif (#PCDATA)>
+<!ELEMENT teléfono (#PCDATA)>
+<!ELEMENT descripción (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT oferta EMPTY>
+<!ELEMENT pvp (#PCDATA)>
+<!ATTLIST factura número ID #REQUIRED
+                  fecha CDATA #REQUIRED
+                  moneda CDATA "euro">
+<!ATTLIST detalle-factura importe CDATA #REQUIRED>
+<!ATTLIST línea código-artículo CDATA #REQUIRED
+                tipo CDATA "DVD">
