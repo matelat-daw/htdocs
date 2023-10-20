@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="orion" created="2023-10-17" changedby="orion" changed="2023-10-18" origin="Structorizer 3.32-11" text="&#34;Calcular la Suma de los Números&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;OUTPUT &#34;&#34;Ingresa un Número de las Cifras que Quieras: &#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;INPUT num&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;var total = 0;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<while text="&#34;Mientras num sea mayor que 0 Hacer&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+			<qWhile>
+				<instruction text="&#34;resto = modulo 10 de num&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;total = total + resto&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;num = num divido entre 10&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qWhile>
+		</while>
+		<instruction text="&#34;Mostrar &#34;&#34;El Resutado es: &#34;&#34;, total&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

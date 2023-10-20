@@ -1,0 +1,14 @@
+C:\Projects\C#\Ejercicio-2-Calculo\bin\Debug\net7.0\Ejercicio-2-Calculo.exe
+C:\Projects\C#\Ejercicio-2-Calculo\bin\Debug\net7.0\Ejercicio-2-Calculo.deps.json
+C:\Projects\C#\Ejercicio-2-Calculo\bin\Debug\net7.0\Ejercicio-2-Calculo.runtimeconfig.json
+C:\Projects\C#\Ejercicio-2-Calculo\bin\Debug\net7.0\Ejercicio-2-Calculo.dll
+C:\Projects\C#\Ejercicio-2-Calculo\bin\Debug\net7.0\Ejercicio-2-Calculo.pdb
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.AssemblyInfoInputs.cache
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.AssemblyInfo.cs
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.dll
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\refint\Ejercicio-2-Calculo.dll
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.pdb
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\Ejercicio-2-Calculo.genruntimeconfig.cache
+C:\Projects\C#\Ejercicio-2-Calculo\obj\Debug\net7.0\ref\Ejercicio-2-Calculo.dll

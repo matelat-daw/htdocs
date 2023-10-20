@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Personas SYSTEM "DTD/persona-ext.dtd">
+
+<Personas>
+    <Persona>
+        <nombre>María Pía</nombre>
+        <direccion>
+            <calle>Herradores 1</calle>
+            <poblacion>San Cristóbal de La Laguna</poblacion>
+            <provincia>Tenerife</provincia>
+            <cpostal>38201</cpostal>
+        </direccion>
+        <genero>Mujer</genero>
+    </Persona>
+    <Persona>
+        <nombre>Juan Pérez</nombre>
+        <direccion>
+            <calle>Serrano S/N</calle>
+            <poblacion>Madrid</poblacion>
+            <provincia>Madrid</provincia>
+            <cpostal>28001</cpostal>
+        </direccion>
+        <genero>Varón</genero>
+    </Persona>
+    <Persona>
+        <nombre>César Matelat</nombre>
+        <nacimiento day="5" month="Abril" year="1968"/>
+        <direccion>
+            <calle>Fermín Morín X</calle>
+            <poblacion>Santa Cruz de Tenerife</poblacion>
+            <provincia>Tenerife</provincia>
+            <cpostal>38007</cpostal>
+        </direccion>
+        <genero>Varón</genero>
+    </Persona>
+</Personas>
