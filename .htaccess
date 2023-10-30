@@ -1,0 +1,4 @@
+# Activar POST para solicitudes Ajax
+RewriteEngine on
+RewriteCond %{REQUEST_METHOD} =POST
+RewriteRule ^ - [L]

@@ -1,0 +1,9 @@
+<!ELEMENT Albumes (Album*)>
+<!ELEMENT Album (ID, Foto)*>
+<!ELEMENT Foto (place, date, camera, people, monument)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT place (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT camera (#PCDATA)>
+<!ELEMENT people (#PCDATA)>
+<!ELEMENT monument (#PCDATA)>

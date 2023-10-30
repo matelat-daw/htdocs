@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Albumes SYSTEM "DTD/albumes.dtd">
+
+<Albumes>
+    <Album>
+        <ID>1</ID>
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>12/04/1968 07:00:00</date>
+            <camera>Zeiss Icon</camera>
+            <people>Me</people>
+            <monument>Torreón del Monje</monument>
+        </Foto>
+        <ID>2</ID>
+        <Foto>
+            <place>Tenerife</place>
+            <date>07-09-2002 07:00:00</date>
+            <camera>Cannon</camera>
+            <people>Me</people>
+            <monument>Cima de El Teide</monument>
+        </Foto>
+        <ID>3</ID>
+        <Foto>
+            <place>La Palma</place>
+            <date>15-04-2005 10:00:00</date>
+            <camera>Sony</camera>
+            <people>Me</people>
+            <monument>El Roque de Los Muchachos</monument>
+        </Foto>
+    </Album>
+    <Album>
+        <ID>1</ID>
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>01-09-2007 17:00:00</date>
+            <camera>Samsung</camera>
+            <people>Me</people>
+            <monument>Playa La Perla</monument>
+        </Foto>
+        <ID>2</ID>
+        <Foto>
+            <place>Barcelona</place>
+            <date>01-07-2007 10:00:00</date>
+            <camera>Samsung</camera>
+            <people>Me</people>
+            <monument>El Mont Juic</monument>
+        </Foto>
+        <ID>3</ID>
+        <Foto>
+            <place>País Vasco</place>
+            <date>05-01-2012 08:00:00</date>
+            <camera>Sony</camera>
+            <people>Me</people>
+            <monument>Barakaldo BEC</monument>
+        </Foto>
+    </Album>
+</Albumes>

@@ -1,0 +1,14 @@
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\bin\Debug\net7.0\Ejercicio-4-Entrega.exe
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\bin\Debug\net7.0\Ejercicio-4-Entrega.deps.json
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\bin\Debug\net7.0\Ejercicio-4-Entrega.runtimeconfig.json
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\bin\Debug\net7.0\Ejercicio-4-Entrega.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\bin\Debug\net7.0\Ejercicio-4-Entrega.pdb
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.AssemblyInfoInputs.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.AssemblyInfo.cs
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.csproj.CoreCompileInputs.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\refint\Ejercicio-4-Entrega.dll
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.pdb
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\Ejercicio-4-Entrega.genruntimeconfig.cache
+C:\Users\orion\source\repos\Asignación y Cálculo\Ejercicio-4-Entrega\obj\Debug\net7.0\ref\Ejercicio-4-Entrega.dll

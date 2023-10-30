@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Albumes [
+  <!ELEMENT Albumes (Album*)>
+  <!ELEMENT Album (Foto*)>
+  <!ELEMENT Foto (place, date, camera, people, monumento)>
+  <!ELEMENT place (#PCDATA)>
+  <!ELEMENT date (#PCDATA)>
+  <!ELEMENT camera (#PCDATA)>
+  <!ELEMENT people (#PCDATA)>
+  <!ELEMENT monumento (#PCDATA)>
+  <!ATTLIST Album ID ID #REQUIRED>
+  ]>
+
+<Albumes>
+    <Album ID="A1">
+        <Foto>
+            <place>Mar del Plata</place>
+            <date>12/04/1968</date>
+            <camera>Ziess Icon</camera>
+            <people>Me</people>
+            <monumento>La Rambla de Mar del Plata</monumento>
+        </Foto>
+        <Foto>
+            <place>Barcelona</place>
+            <date>15/08/2007</date>
+            <camera>Nikon 6000</camera>
+            <people>Me</people>
+            <monumento>Plaza España</monumento>
+        </Foto>
+        <Foto>
+            <place>Teide</place>
+            <date>11/7/2011</date>
+            <camera>Sony M4 Aqua</camera>
+            <people>Me</people>
+            <monumento>Cima del Teide</monumento>
+        </Foto>
+    </Album>
+    <Album ID="A2">
+        <Foto>
+            <place>Rio de Janerio</place>
+            <date>05/04/1993</date>
+            <camera>Nikon 5500</camera>
+            <people>Me</people>
+            <monumento>Corcobado</monumento>
+        </Foto>
+        <Foto>
+            <place>Clonia del Sacramento</place>
+            <date>15/03/2001</date>
+            <camera>Nokia 5400</camera>
+            <people>Me</people>
+            <monumento>Ciudad Antigua</monumento>
+        </Foto>
+        <Foto>
+            <place>Madrid</place>
+            <date>15/05/1997</date>
+            <camera>Nikon 5500</camera>
+            <people>Me</people>
+            <monumento>Plaza Cibeles</monumento>
+        </Foto>
+    </Album>
+</Albumes>

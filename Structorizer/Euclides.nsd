@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="orion" created="2023-10-09" changedby="orion" changed="2023-10-16" origin="Structorizer 3.32-11" text="&#34;Euclides&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;OUTPUT &#34;&#34;Introduce dos Números&#34;&#34;&#34;" comment="&#34;Texto que solicita 2 números&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;INPUT num1&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;INPUT num2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<alternative text="&#34;num1 &#60; num2&#34;" comment="" color="ffffff" disabled="0">
+			<qTrue>
+				<instruction text="&#34;mayor = num2&#34;,&#34;menor = num1&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;mayor = num1&#34;,&#34;menor = num2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qFalse>
+		</alternative>
+		<while text="&#34;while (resto &#62; 0)&#34;" comment="" color="ffffff" disabled="0">
+			<qWhile>
+				<instruction text="&#34;resto = mayor % menor&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;mayor = menor&#34;,&#34;menor = resto&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qWhile>
+		</while>
+		<instruction text="&#34;OUTPUT &#34;&#34;El Máximo Común Divisor es: &#34;&#34; mayor&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

@@ -1,0 +1,14 @@
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\bin\Debug\net7.0\Ejercicio-3.exe
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\bin\Debug\net7.0\Ejercicio-3.deps.json
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\bin\Debug\net7.0\Ejercicio-3.runtimeconfig.json
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\bin\Debug\net7.0\Ejercicio-3.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\bin\Debug\net7.0\Ejercicio-3.pdb
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.AssemblyInfoInputs.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.AssemblyInfo.cs
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\refint\Ejercicio-3.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.pdb
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\Ejercicio-3.genruntimeconfig.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-3-Calculo\obj\Debug\net7.0\ref\Ejercicio-3.dll

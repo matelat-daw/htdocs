@@ -1,0 +1,14 @@
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\bin\Debug\net7.0\Ejercicio-4-Calculo.exe
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\bin\Debug\net7.0\Ejercicio-4-Calculo.deps.json
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\bin\Debug\net7.0\Ejercicio-4-Calculo.runtimeconfig.json
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\bin\Debug\net7.0\Ejercicio-4-Calculo.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\bin\Debug\net7.0\Ejercicio-4-Calculo.pdb
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.AssemblyInfoInputs.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.AssemblyInfo.cs
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\refint\Ejercicio-4-Calculo.dll
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.pdb
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\Ejercicio-4-Calculo.genruntimeconfig.cache
+C:\Projects\C#\Asignación y Cálculo\Ejercicio-4-Calculo\obj\Debug\net7.0\ref\Ejercicio-4-Calculo.dll
