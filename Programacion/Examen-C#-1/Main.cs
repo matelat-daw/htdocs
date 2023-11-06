@@ -1,5 +1,8 @@
 using System;
 
+// Para Compilar el Código: mcs -out:main.exe main.cs
+// Para Ejecutarlo: mono main.exe
+
 namespace Edades
 {
     public class Edades
