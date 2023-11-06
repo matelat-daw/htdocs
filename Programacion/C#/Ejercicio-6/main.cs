@@ -15,10 +15,14 @@ namespace Pasos
             
             Console.WriteLine("Ingresa la Cantidad de Pasos que da la Persona en la Línea");
             Console.WriteLine("");
+            Console.Write("Pasos: ");
             pasos = Convert.ToInt32(Console.ReadLine());
             while (total != pasos)
             {
                 total += pasos;
+                Console.Write("Van: {0}", total);
+                Console.WriteLine("");
+                Console.Write("Pasos: ");
                 pasos = Convert.ToInt32(Console.ReadLine());
             }
             Console.WriteLine("En Total la Persona ha Caminado: {0} Pasos.", total);
