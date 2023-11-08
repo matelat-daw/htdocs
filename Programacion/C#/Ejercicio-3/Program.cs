@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Para Compilar el Código: mcs -out:main.exe main.cs
+// En Linux: Para Compilar el Código: mcs -out:main.exe main.cs
 // Para Ejecutarlo: mono main.exe
 
 namespace Ejercicio_3
