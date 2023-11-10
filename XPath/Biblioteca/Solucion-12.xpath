@@ -1,0 +1,4 @@
+﻿//libro/ejemplar[@socio != "s1"]/../nombre
+
+
+<nombre>La sombra del viento</nombre>
