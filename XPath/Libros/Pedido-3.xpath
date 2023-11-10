@@ -1,0 +1,40 @@
+﻿//autor
+
+
+
+<autor>
+  <apellidos>ELMASRI,</apellidos>
+  <nombre>R.A.</nombre>
+</autor>
+<autor>
+  <apellidos>Gomez</apellidos>
+  <nombre>Pepe</nombre>
+</autor>
+<autor>
+  <apellidos>DATE</apellidos>
+  <nombre>C.J.</nombre>
+</autor>
+<autor>
+  <apellidos>Santos</apellidos>
+  <nombre>E.</nombre>
+</autor>
+<autor>
+  <apellidos>Garcia</apellidos>
+  <nombre>A.</nombre>
+</autor>
+<autor>
+  <apellidos>Alonso</apellidos>
+  <nombre>S.</nombre>
+</autor>
+<autor>
+  <apellidos>Alarcon</apellidos>
+  <nombre>P.</nombre>
+</autor>
+<autor>
+  <apellidos>Garbajosa</apellidos>
+  <nombre>J.</nombre>
+</autor>
+<autor>
+  <apellidos>Pons</apellidos>
+  <nombre>O.</nombre>
+</autor>

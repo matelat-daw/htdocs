@@ -1,0 +1,18 @@
+﻿//libros/libro[count(autor) > 1]
+
+
+
+<libro id="1">
+  <titulo>Fundamentos de Sistemas de Bases de Datos</titulo>
+  <autor>
+    <apellidos>ELMASRI,</apellidos>
+    <nombre>R.A.</nombre>
+  </autor>
+  <autor>
+    <apellidos>Gomez</apellidos>
+    <nombre>Pepe</nombre>
+  </autor>
+  <editorial>Addison-Wesley</editorial>
+  <año>2007</año>
+  <precio>45.25</precio>
+</libro>

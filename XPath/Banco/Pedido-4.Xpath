@@ -1,0 +1,18 @@
+﻿//fondo[datos[cantidaddepositada < 25000]]
+
+
+
+<fondo>
+  <cuentaasociada>20-A</cuentaasociada>
+  <datos>
+    <cantidaddepositada>20000</cantidaddepositada>
+    <moneda>Euros</moneda>
+  </datos>
+</fondo>
+<fondo>
+  <cuentaasociada>21-DX</cuentaasociada>
+  <datos>
+    <cantidaddepositada>4800</cantidaddepositada>
+    <moneda>Dolares</moneda>
+  </datos>
+</fondo>

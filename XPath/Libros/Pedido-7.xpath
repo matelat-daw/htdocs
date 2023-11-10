@@ -1,0 +1,7 @@
+﻿//libro[@id=3]/autor[position()=4]
+
+
+<autor>
+  <apellidos>Alarcon</apellidos>
+  <nombre>P.</nombre>
+</autor>
