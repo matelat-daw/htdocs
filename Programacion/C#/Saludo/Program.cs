@@ -14,7 +14,11 @@ class Program
 
         while (!salir)
         {
+<<<<<<< HEAD
             // Console.WriteLine("Este Ejercicio Pide la Introducción de un Nombre y escribe Hola y el Nombre Introdcido.");
+=======
+            // Console.WriteLine("Este Ejercicio Pide la Introducción de un Nombre y escribe Hola y el Nombre Introducido.");
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
             // Console.Write("Introduce tu Nombre: ");
             // name = Console.ReadLine();
             // Console.WriteLine("Hola " + name);

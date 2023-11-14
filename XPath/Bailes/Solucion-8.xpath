@@ -1,0 +1,5 @@
+﻿//baile[precio < 35 and precio/@moneda = "euro" and sala = "1"]/nombre
+
+
+<nombre>Tango </nombre>
+<nombre>Rock </nombre>

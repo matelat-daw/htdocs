@@ -1,0 +1,7 @@
+﻿//ejemplar/@socio
+o
+distinct-values(//ejemplar/@socio) // En la Versión 2.v o Superior, Devuelve: socio="s1",  socio="s2".
+
+ socio="s1"
+ socio="s1"
+ socio="s2"

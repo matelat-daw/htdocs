@@ -36,6 +36,11 @@ public class Parking
 				min_scann.close();
 				hour_scann.close();
 			}
+<<<<<<< HEAD
+=======
+			System.out.print("\033[H\033[2J");
+			System.out.flush();
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
 		}
 	}
 }

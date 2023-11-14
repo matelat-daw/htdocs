@@ -1,0 +1,5 @@
+﻿//libro[@id = "L1"]/ejemplar[not (@socio)]
+
+
+
+<ejemplar id="L1e1"/>

@@ -1,0 +1,16 @@
+﻿//libro[año = 2010]
+
+
+
+<libro id="L2">
+  <isbn>YYY</isbn>
+  <nombre>La sombra del viento</nombre>
+  <editorial>Sombralia</editorial>
+  <año>2010</año>
+  <autor>Carlos Ruiz</autor>
+  <ejemplar id="L2e1" socio="s1" fecha="2023-10-21" plazo="15"/>
+  <ejemplar id="L2e2" socio="s2" fecha="2023-10-12" plazo="25"/>
+  <ejemplar id="L2e3"/>
+  <!-- El tercero no está prestado, el primero y segundo  sí -->
+  <!-- Más ejemplares -->
+</libro>

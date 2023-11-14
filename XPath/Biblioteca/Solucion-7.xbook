@@ -1,0 +1,1 @@
+[{"kind":1,"language":"markdown","value":"# XPath Notebook\nDate: 2023-11-10     Time: 09:04:44"},{"kind":2,"language":"xpath","value":"count(//libro[@id = \"L1\"]/ejemplar)"}]
