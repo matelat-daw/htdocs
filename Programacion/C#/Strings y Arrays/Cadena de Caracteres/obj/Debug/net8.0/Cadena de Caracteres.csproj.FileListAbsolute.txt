@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\bin\Debug\net8.0\Cadena de Caracteres.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\bin\Debug\net8.0\Cadena de Caracteres.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\bin\Debug\net8.0\Cadena de Caracteres.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\bin\Debug\net8.0\Cadena de Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\bin\Debug\net8.0\Cadena de Caracteres.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\refint\Cadena de Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\Cadena de Caracteres.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena de Caracteres\obj\Debug\net8.0\ref\Cadena de Caracteres.dll
