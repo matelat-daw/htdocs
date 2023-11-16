@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\orion\\source\\repos\\Ejercicio-3\\Ejercicio-3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\orion\\source\\repos\\Ejercicio-3\\Ejercicio-3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orion\\source\\repos\\Ejercicio-3\\Ejercicio-3.csproj",
+        "projectName": "Ejercicio-3",
+        "projectPath": "C:\\Users\\orion\\source\\repos\\Ejercicio-3\\Ejercicio-3.csproj",
+        "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orion\\source\\repos\\Ejercicio-3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Ejercicio-3\\Ejercicio-3.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +72,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
         }
       }
     }
