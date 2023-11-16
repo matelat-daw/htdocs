@@ -1,6 +1,9 @@
 ﻿//libro/ejemplar[@socio = "s1" and @socio != "s2"]/../nombre
 
 
+//libro[(ejemplar/@socio = "s1") and not(ejemplar/@socio = "s2")]/nombre // Es Este.
+
+
 
 <nombre>Don Quijote de la Mancha</nombre>
 <nombre>La sombra del viento</nombre>

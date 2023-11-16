@@ -1,1 +1,4 @@
-﻿//libro[autor[contains(text(), "Alfaguara")]]
+﻿//libro[editorial[contains(text(), "Alfaguara")]]
+
+
+No Hay Libros de esa Editorial.

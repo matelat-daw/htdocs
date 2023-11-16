@@ -1,0 +1,22 @@
+﻿//libro[count(ejemplar[not (@socio)]) = count(./ejemplar)]
+
+
+//libro[count(ejemplar[not (@socio)]) = count(ejemplar)]
+
+
+
+
+<libro id="L3">
+  <isbn>ZZZ</isbn>
+  <nombre>Cumbres borrascosas</nombre>
+  <editorial>Ediciones España</editorial>
+  <año>1970</año>
+  <autor>J. D. Salinger</autor>
+  <ejemplar id="L3e1"/>
+  <ejemplar id="L3e2"/>
+  <ejemplar id="L3e3"/>
+  <ejemplar id="L3e4"/>
+  <ejemplar id="L3e5"/>
+  <!-- No está prestado ninguno -->
+  <!-- Más ejemplares -->
+</libro>

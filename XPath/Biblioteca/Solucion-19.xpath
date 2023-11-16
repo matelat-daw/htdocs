@@ -1,7 +1,6 @@
-﻿//libro[count(ejemplar) < 3]
+﻿//libro[count(ejemplar[@socio]) = 1]
 
 
-//libro[count(./ejemplar) < 3]
 
 
 <libro id="L1">
