@@ -1,0 +1,4 @@
+﻿//carrera[@id=//alumno[nombre = "Víctor Manuel"]//carrera/@codigo]/nombre
+
+
+<nombre>I.T. Informática</nombre>

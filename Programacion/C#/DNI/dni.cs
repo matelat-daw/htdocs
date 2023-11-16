@@ -1,4 +1,4 @@
-// Para Compilar el Código: mcs -out:dni.exe main.cs
+// Para Compilar el Código: mcs dni.cs
 // Para Ejecutarlo: mono dni.exe
 using System;
 internal class Program

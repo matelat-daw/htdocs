@@ -1,0 +1,9 @@
+﻿//alumno[..//carrera/@codigo=//carrera[not(plan >= 2002)]/@id]/nombre
+
+
+
+<nombre>Víctor Manuel</nombre>
+<nombre>Luisa</nombre>
+<nombre>Fernando</nombre>
+<nombre>María</nombre>
+<nombre>Armando</nombre>
