@@ -15,18 +15,19 @@
             zero = Convert.ToInt32(Console.ReadLine());
             try
             {
-                Console.WriteLine("El Resultado de Dividir tu Edad, {0} por 0 es: ", edad / zero);
+                Console.WriteLine("El Resultado de Dividir tu Edad, {0} por {1} es: ", edad / zero);
             }
             catch (Exception error)
             {
                 Console.WriteLine("Hubo un Error al Intentar Dividir por 0, el Error es: {0}", error);
-                // return;
-                Environment.Exit(1);
+                // return; Sale del Programa y no Muestra la Edad
+                // Environment.Exit(1); Termina la Ejecución del Programa.
             }
-            finally
+            /* finally
             {
                 Console.WriteLine("Tu Edad es: {0}", edad);
-            }
+            } */
+            Console.WriteLine("Tu Edad es: {0}", edad);
         }
     }
 }

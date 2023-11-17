@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Control de Entrada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d4b0ee31759b1026fd38cdc70d81c8cb81287f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Control de Entrada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Control de Entrada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

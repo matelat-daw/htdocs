@@ -1,6 +1,6 @@
 ﻿namespace Control_de_Entrada
 {
-    internal class Program
+    internal class ControlEntero
     {
         static void Main(string[] args)
         {
@@ -20,6 +20,7 @@
                 {
                     Console.WriteLine("Te has Equivocado de Número, Pulsa Cualquier Tecla para Continuar: {0}", error);
                     flag = true;
+                    Console.WriteLine("Presiona una Tecla para Continuar");
                     Console.ReadKey();
                 }
             }
