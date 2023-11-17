@@ -7,7 +7,8 @@
     <xsl:apply-templates />
     </ul>
   </html>
+  </xsl:template>
   <xsl:template match="nombre">
-      <li><xsl:value-of select="nombre"></xsl:value-of></li>
+      <li><xsl:value-of select="nombre" /></li>
   </xsl:template>
 </xsl:stylesheet>
