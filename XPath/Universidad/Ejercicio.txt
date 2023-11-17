@@ -29,3 +29,35 @@ La respuesta entonces debe ser:	 /universidad/nombre
     25. Nombre de los alumnos matriculados en carreras que no tienen subdirector:
     26. Nombre de las alumnos matriculados en asignaturas con 0 créditos prácticos y que estudien la carrera de I.T. Informática :
     27. Nombre de los alumnos que estudian carreras cuyos planes son anteriores a 2002:
+
+
+1. /universidad/nombre
+2. /universidad/pais
+3. //carrera/nombre
+4. //carrera/plan
+5. //alumno/nombre
+6. //carrera/@id
+7. //carrera[@id='c01']
+8. //carrera[@id='c02']/centro
+9. //subdirector/../nombre
+10. //alumno//proyecto/../../nombre
+11. //alumno//carrera/@codigo
+12. //alumno[@beca]/nombre | //alumno[@beca]/apellido1 | //alumno[@beca]/apellido2
+13. //asignatura[@titulacion='c04']/nombre
+14. //asignatura[trimestre=2]/nombre
+15. //asignatura[not(creditos_teoricos=4)]/nombre
+16. //alumno[last()]//carrera/@codigo
+17. //alumno[sexo='Mujer']//asignatura/@codigo
+18. //alumno[.//asignatura/@codigo='a02']/nombre
+19. //alumno//asignatura/../../carrera/@codigo
+20. //alumno[sexo='Hombre']/apellido1 | //alumno[sexo='Hombre']/apellido2
+21. //carrera[@id=//alumno[nombre='Víctor Manuel']//carrera/@codigo]/nombre
+22. //asignatura[@id=//alumno[nombre='Luisa']//asignatura/@codigo]/nombre
+23. //alumno[.//asignatura/@codigo=//asignatura[nombre='Ingeniería del
+Software']/@id]/apellido1
+24. //carrera[@id=//alumno[.//asignatura[@codigo=//asignatura[nombre='Tecnología de los
+Alimentos']/@id]]//carrera/@codigo]/nombre
+25. //alumno[not (.//carrera/@codigo=//carrera[subdirector]/@codigo)]/nombre
+26. //alumno[.//asignatura/@codigo=//asignatura[creditos_practicos=0]/@id][.//carrera/
+@codigo=//carrera[nombre='I.T. Informática']/@id]/nombre
+27. //alumno[.//carrera/@codigo=//carrera[not(plan>=2002)]/@id]/nombre
