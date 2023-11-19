@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\bin\Debug\net8.0\Cuadrado.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\bin\Debug\net8.0\Cuadrado.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\bin\Debug\net8.0\Cuadrado.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\bin\Debug\net8.0\Cuadrado.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\bin\Debug\net8.0\Cuadrado.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\refint\Cuadrado.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\Cuadrado.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Cuadrado\obj\Debug\net8.0\ref\Cuadrado.dll

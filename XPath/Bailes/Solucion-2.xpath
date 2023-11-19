@@ -1,0 +1,15 @@
+﻿//nombre | //precio
+
+
+<nombre>Tango </nombre>
+<precio cuota="mensual" moneda="euro">27</precio>
+<nombre>Cha-cha-cha </nombre>
+<precio cuota="trimestral" moneda="euro">80</precio>
+<nombre>Rock </nombre>
+<precio cuota="mensual" moneda="euro">30</precio>
+<nombre>Merengue </nombre>
+<precio cuota="trimestral" moneda="dolares">75</precio>
+<nombre>Salsa </nombre>
+<precio cuota="mensual" moneda="dolares">32</precio>
+<nombre>Pasodoble </nombre>
+<precio cuota="anual" moneda="euro">32</precio>

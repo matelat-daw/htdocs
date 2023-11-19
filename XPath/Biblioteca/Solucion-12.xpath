@@ -1,0 +1,5 @@
+﻿//libro/ejemplar[@socio != "s1"]/../nombre
+
+//libro[not (ejemplar/@socio ="s1")]/nombre // Es Este
+
+<nombre>La sombra del viento</nombre>

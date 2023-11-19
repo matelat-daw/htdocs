@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\bin\Debug\net8.0\Control de Entrada.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\bin\Debug\net8.0\Control de Entrada.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\bin\Debug\net8.0\Control de Entrada.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\bin\Debug\net8.0\Control de Entrada.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\bin\Debug\net8.0\Control de Entrada.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\refint\Control de Entrada.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\Control de Entrada.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Control de Entrada\obj\Debug\net8.0\ref\Control de Entrada.dll

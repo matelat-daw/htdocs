@@ -1,0 +1,5 @@
+﻿/inventario/producto[last() - 1]/@codigo
+
+
+
+ codigo="ACD-981"

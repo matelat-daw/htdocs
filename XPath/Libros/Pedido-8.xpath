@@ -1,0 +1,11 @@
+﻿//libro[@id=3]/autor[position()=1 or position()=2]
+
+
+<autor>
+  <apellidos>Santos</apellidos>
+  <nombre>E.</nombre>
+</autor>
+<autor>
+  <apellidos>Garcia</apellidos>
+  <nombre>A.</nombre>
+</autor>

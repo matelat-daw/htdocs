@@ -1,0 +1,9 @@
+﻿//alumno[sexo="Hombre"]/apellido1 | //alumno[sexo="Hombre"]/apellido2
+
+
+<apellido1>Rivas</apellido1>
+<apellido2>Santos</apellido2>
+<apellido1>Pérez</apellido1>
+<apellido2>Romero</apellido2>
+<apellido1>Gerra</apellido1>
+<apellido2>Segura</apellido2>

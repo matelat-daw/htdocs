@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\bin\Debug\net8.0\Maximo Entero.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\bin\Debug\net8.0\Maximo Entero.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\bin\Debug\net8.0\Maximo Entero.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\bin\Debug\net8.0\Maximo Entero.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\bin\Debug\net8.0\Maximo Entero.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\refint\Maximo Entero.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\Maximo Entero.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Maximo Entero\obj\Debug\net8.0\ref\Maximo Entero.dll

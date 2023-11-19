@@ -1,0 +1,16 @@
+﻿//libro[count(ejemplar[@socio]) = 1]
+
+
+
+
+<libro id="L1">
+  <isbn>XXX</isbn>
+  <nombre>Don Quijote de la Mancha</nombre>
+  <editorial>Castalia</editorial>
+  <año>1985</año>
+  <autor>Miguel de Cervantes</autor>
+  <!-- El primero no está prestado, el segundo sí -->
+  <ejemplar id="L1e1"/>
+  <ejemplar id="L1e2" socio="s1" fecha="2023-10-21" plazo="15"/>
+  <!-- Más ejemplares -->
+</libro>

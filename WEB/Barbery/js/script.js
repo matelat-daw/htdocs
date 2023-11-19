@@ -1,6 +1,10 @@
 function totNumPages() // Función para la paginación
 {
+<<<<<<< HEAD
     return Math.ceil(window.length / window.qtty); // Calcula la cantidad de páginas que habrá, divide la cantidad de eventos por 6 resultados a mostrar por página.
+=======
+    return Math.ceil(window.length / window.qtty); // Calcula la cantidad de páginas que habrá, divide la cantidad de datos por 5 resultados a mostrar por página.
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
 }
 
 function prev(where) // Función para ir a la página anterior.
@@ -8,7 +12,11 @@ function prev(where) // Función para ir a la página anterior.
     if (window.page > 1) // Si la página actual es mayor que la página 1.
     {
         window.page--; // Decrementa la variable page, página anterior.
+<<<<<<< HEAD
         change(window.page, window.qtty, where); // Llama a la función change pasandole el número de página a mostrar y la cantidad de eventos a mostrar que siempre es 6.
+=======
+        change(window.page, window.qtty, where); // Llama a la función change pasandole el número de página a mostrar y la cantidad de datos a mostrar que siempre es 5.
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
     }
 }
 
@@ -21,6 +29,7 @@ function next(where) // La Función next muestra la página siguiente.
     }
 }
 
+<<<<<<< HEAD
 function change(page, qtty, where) // Función que muestra los resultados de a 6 en filas y columnas de bootstrap, recibe la pagina page y la cantidad de resultados a mostrar qtty.
 {
     window.page = page; // Asigno la variable page, a la variable global window.page.
@@ -32,11 +41,25 @@ function change(page, qtty, where) // Función que muestra los resultados de a 6
     else
     {
         var length = invoice.length; // La variable length será del tamaño del array id.
+=======
+function change(page, qtty, index) // Función que muestra los resultados de a 5 en la tabla, recibe la página page, la cantidad de resultados a mostrar qtty y true si viene de index y false si viene de profile.
+{
+    window.page = page; // Asigno la variable page, a la variable global window.page.
+    window.qtty = qtty; // Asigno la variable qtty, a la variable global window.qtty.
+    if (index) // Si viene de index
+    {
+        var length = service.length; // Necesito el tamaño del array de servicios(Los Servicios en la Base de Datos).
+    }
+    else // 
+    {
+        var length = invoice.length; // Necesito el tamaño del array de facturas(invoice).
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
     }
     window.length = length; // Hago global la variable length.
     var btn_next = document.getElementById("next"); // Asigno a la variable btn_next la id del botón con id next, que muestra los resultados siguientes.
     var btn_prev = document.getElementById("prev"); // Asigno a la variable btn_prev la id del botón con id prev, que muestra los resultados anteriores.
     var page_span = document.getElementById("page"); // Asigno a la variable page_span la id del span page, que muestra el número de página.
+<<<<<<< HEAD
     var table = document.getElementById("table"); // ID del div que contendrá las imágenes de los artículos y los formularios.
     if (length < 4) // Si la cantidad de artículos es menor que 4.
     {
@@ -148,6 +171,57 @@ function change(page, qtty, where) // Función que muestra los resultados de a 6
             html += "</table>";
             table.innerHTML = html; // Muestro todo en pantalla.
         }
+=======
+    var table = document.getElementById("table"); // ID del div que contendrá la tabla con los datos.
+    if (!index) // Si se llama desde el perfil del cliente.
+    {
+        var html = "<table><tr><th>Número de Factura</th><th>Servicio</th><th>Precio</th><th>Cantidad</th><th>Parcial I.V.A. Incluido</th><th>Total</th><th>Fecha</th><th>Hora</th></tr>";
+        for (i = (page - 1) * qtty; i < page * qtty; i++) // Aquí hago el bucle desde la página donde esté, a la cantidad de resultados a mostrar.
+        {
+            if (i < length) // Si i es menor que el tamaño del array.
+            {
+                var my_date = date[i].split("-");
+                let size = service[i].length;
+                html += "<tr><td style='width: 150px;'>" + invoice[i] + "</td><td style='width: 250px;'>";
+                for (k = 0; k < size; k++)
+                {
+                    html += service[i][k] + "<br>";
+                }
+                html += "</td><td style='text-align: right; width: 120px;'>";
+                for (k = 0; k < size; k++)
+                {
+                    html += price[i][k] + "<br>";
+                }
+                html += "</td><td style='text-align: right;'>";
+                for (k = 0; k < size; k++)
+                {
+                    html += qtties[i][k] + "<br>";
+                }
+                html += "</td><td style='text-align: right; width: 150px;'>";
+                for (k = 0; k < size; k++)
+                {
+                    html += (parseFloat(price[i][k]) * parseInt(qtties[i][k])).toFixed(2) + " $<br><br>";
+                }
+                html += "</td><td>";
+                html += total[i] + "</td><td>" + my_date[2] + "/" + my_date[1] + "/" + my_date[0] + "</td><td>" + time[i] + "</td></tr>"; // Cierro la tabla.
+            }
+        }
+        html += "</table>";
+        table.innerHTML = html; // La muestro en pantalla.
+    }
+    else // Si se llama desde index.
+    {
+        var html = "<table><tr><th>Servicio</th><th>Precio</th><th>Foto</th></tr>";
+        for (i = (page - 1) * qtty; i < page * qtty; i++) // Aquí hago el bucle desde la página donde esté, a la cantidad de resultados a mostrar.
+        {
+            if (i < length) // Si i es menor que el tamaño del array.
+            {
+                html += "<tr><td>" + service[i] + "</td><td>" + price[i] + "</td><td><a href='#view2'><img class='mysize' src='" + img[i] + "' alt='" + service[i] + "' onclick='showImg(\"" + img[i] + "\")'></a></td></tr>";
+            }
+        }
+        html += "</table>";
+        table.innerHTML = html; // Muestro todo en pantalla.
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
     }
 
     if (length > 5) // Si la cantidad de Artículos es mayor que 5.
@@ -242,7 +316,11 @@ function verify() // Función para validar las contraseñas de registro de alumn
     if (pass.value != pass2.value) // Verifico si los valores en los input pass y pass2 no coinciden.
     {
         toast(1, "Hay un Error", "Las contraseñas no coinciden, has escrito: " + pass.value + " y " + pass2.value); // Si no coinciden muestro error.
+<<<<<<< HEAD
         return false; // devulvo false, el formulario no se envía.
+=======
+        return false; // Devuelvo false, el formulario no se envía.
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
     }
     else // Si son iguales.
     {
@@ -290,6 +368,7 @@ function changeit() // Función para la página de contacto.
         switch (contact.value) // Hago un switch al valor en el selector.
         {
             case "Teléfono":
+<<<<<<< HEAD
                 em.required = false;
                 ph.required = true;
                 button.value = "Llamame!";
@@ -304,12 +383,33 @@ function changeit() // Función para la página de contacto.
                 phone.style.visibility = "visible";
                 break;
             default:
+=======
+                email.style.visibility = "hidden";
+                phone.style.visibility = "visible";
+                em.required = false;
+                ph.required = true;
+                button.value = "Llamame!";
+                break;
+            case "Whatsapp":
+                email.style.visibility = "hidden";
+                phone.style.visibility = "visible";
+                em.required = false;
+                ph.required = true;
+                button.value = "Mandame un Guasap";
+                break;
+            default:
+                email.style.visibility = "visible";
+                phone.style.visibility = "hidden";
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
                 ph.required = false;
                 ph.value = 1;
                 em.required = true;
                 button.value = "Espero tu E-mail";
+<<<<<<< HEAD
                 email.style.visibility = "visible";
                 phone.style.visibility = "hidden";
+=======
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
                 break;
         }
     }
@@ -431,4 +531,8 @@ function pdfDown(number)
     var doc = new jsPDF();
     doc.addImage(image, 'png', 10, 10, 240, 60, '', 'FAST');
     doc.save();
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 93bce38adaa3bfafdf5ceb38e102e94f2ab868f5
