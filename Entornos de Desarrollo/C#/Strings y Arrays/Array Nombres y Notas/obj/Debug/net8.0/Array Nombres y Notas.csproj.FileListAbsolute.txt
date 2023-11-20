@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\bin\Debug\net8.0\Array Nombres y Notas.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\bin\Debug\net8.0\Array Nombres y Notas.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\bin\Debug\net8.0\Array Nombres y Notas.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\bin\Debug\net8.0\Array Nombres y Notas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\bin\Debug\net8.0\Array Nombres y Notas.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\refint\Array Nombres y Notas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\Array Nombres y Notas.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Nombres y Notas\obj\Debug\net8.0\ref\Array Nombres y Notas.dll

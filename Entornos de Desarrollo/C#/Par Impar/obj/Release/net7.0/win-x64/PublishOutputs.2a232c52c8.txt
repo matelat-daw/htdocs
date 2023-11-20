@@ -1,0 +1,2 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\publish\win-x64\Par Impar.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\publish\win-x64\Par Impar.exe

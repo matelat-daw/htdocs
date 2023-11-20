@@ -1,0 +1,14 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\win-x64\Par Impar.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\win-x64\Par Impar.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\win-x64\Par Impar.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\win-x64\Par Impar.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\bin\Release\net7.0\win-x64\Par Impar.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\refint\Par Impar.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\Par Impar.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Par Impar\obj\Release\net7.0\win-x64\ref\Par Impar.dll

@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\bin\Debug\net8.0\Strings Capicúa.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\bin\Debug\net8.0\Strings Capicúa.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\bin\Debug\net8.0\Strings Capicúa.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\bin\Debug\net8.0\Strings Capicúa.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\bin\Debug\net8.0\Strings Capicúa.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\refint\Strings Capicúa.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\Strings Capicúa.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Capicúa\obj\Debug\net8.0\ref\Strings Capicúa.dll

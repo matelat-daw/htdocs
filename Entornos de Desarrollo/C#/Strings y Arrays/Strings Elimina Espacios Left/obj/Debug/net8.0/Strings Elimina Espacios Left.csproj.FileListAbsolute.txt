@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\bin\Debug\net8.0\Strings Elimina Espacios Left.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\bin\Debug\net8.0\Strings Elimina Espacios Left.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\bin\Debug\net8.0\Strings Elimina Espacios Left.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\bin\Debug\net8.0\Strings Elimina Espacios Left.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\bin\Debug\net8.0\Strings Elimina Espacios Left.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\refint\Strings Elimina Espacios Left.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\Strings Elimina Espacios Left.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Elimina Espacios Left\obj\Debug\net8.0\ref\Strings Elimina Espacios Left.dll

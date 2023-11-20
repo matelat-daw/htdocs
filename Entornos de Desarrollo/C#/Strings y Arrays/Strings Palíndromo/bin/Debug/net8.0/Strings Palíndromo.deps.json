@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Strings Palíndromo/1.0.0": {
+        "runtime": {
+          "Strings Palíndromo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strings Palíndromo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

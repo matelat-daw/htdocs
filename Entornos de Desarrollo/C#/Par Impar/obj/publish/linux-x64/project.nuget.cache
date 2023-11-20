@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOAyWxDfoCMhBS4e4gnYZHcEwi8Cr9J3rc5lx0nSg2bQvsNuHuSh+5/3Ory5BwIWIyKSteTzXZhWSxchsHvesQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Par Impar\\Par Impar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orion\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.13\\microsoft.netcore.app.host.linux-x64.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

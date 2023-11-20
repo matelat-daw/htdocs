@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Strings Elimina Espacios/1.0.0": {
+        "runtime": {
+          "Strings Elimina Espacios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strings Elimina Espacios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

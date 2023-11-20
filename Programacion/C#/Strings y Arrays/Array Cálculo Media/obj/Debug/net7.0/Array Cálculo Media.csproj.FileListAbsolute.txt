@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\bin\Debug\net7.0\Array Cálculo Media.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\bin\Debug\net7.0\Array Cálculo Media.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\bin\Debug\net7.0\Array Cálculo Media.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\bin\Debug\net7.0\Array Cálculo Media.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\bin\Debug\net7.0\Array Cálculo Media.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\refint\Array Cálculo Media.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\ref\Array Cálculo Media.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Cálculo Media\obj\Debug\net7.0\Array Cálculo Media.sourcelink.json

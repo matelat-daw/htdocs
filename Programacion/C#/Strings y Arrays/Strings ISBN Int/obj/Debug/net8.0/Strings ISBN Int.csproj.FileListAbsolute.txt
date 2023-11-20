@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\bin\Debug\net8.0\Strings ISBN Int.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\bin\Debug\net8.0\Strings ISBN Int.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\bin\Debug\net8.0\Strings ISBN Int.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\bin\Debug\net8.0\Strings ISBN Int.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\bin\Debug\net8.0\Strings ISBN Int.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\refint\Strings ISBN Int.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\Strings ISBN Int.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Strings y Arrays\Strings ISBN Int\obj\Debug\net8.0\ref\Strings ISBN Int.dll

@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\bin\Debug\net8.0\Array Muestra Numeros.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\bin\Debug\net8.0\Array Muestra Numeros.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\bin\Debug\net8.0\Array Muestra Numeros.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\bin\Debug\net8.0\Array Muestra Numeros.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\bin\Debug\net8.0\Array Muestra Numeros.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\refint\Array Muestra Numeros.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\Array Muestra Numeros.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Muestra Numeros\obj\Debug\net8.0\ref\Array Muestra Numeros.dll
