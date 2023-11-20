@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\bin\Debug\net8.0\Strings Mayúsculas Minúsculas.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\bin\Debug\net8.0\Strings Mayúsculas Minúsculas.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\bin\Debug\net8.0\Strings Mayúsculas Minúsculas.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\bin\Debug\net8.0\Strings Mayúsculas Minúsculas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\bin\Debug\net8.0\Strings Mayúsculas Minúsculas.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\refint\Strings Mayúsculas Minúsculas.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\Strings Mayúsculas Minúsculas.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Strings Mayúsculas Minúsculas\obj\Debug\net8.0\ref\Strings Mayúsculas Minúsculas.dll

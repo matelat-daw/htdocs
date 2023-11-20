@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\orion\\.nuget\\packages\\": {}
+    "C:\\Users\\Orion\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Contando Caracteres\\Contando Caracteres.csproj",
+      "projectUniqueName": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Contando Caracteres\\Contando Caracteres.csproj",
       "projectName": "Contando Caracteres",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Contando Caracteres\\Contando Caracteres.csproj",
-      "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Contando Caracteres\\obj\\",
+      "projectPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Contando Caracteres\\Contando Caracteres.csproj",
+      "packagesPath": "C:\\Users\\Orion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Contando Caracteres\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

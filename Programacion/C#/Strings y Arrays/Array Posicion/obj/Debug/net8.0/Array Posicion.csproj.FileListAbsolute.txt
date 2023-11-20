@@ -1,0 +1,15 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\bin\Debug\net8.0\Array Posicion.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\bin\Debug\net8.0\Array Posicion.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\bin\Debug\net8.0\Array Posicion.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\bin\Debug\net8.0\Array Posicion.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\bin\Debug\net8.0\Array Posicion.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.sourcelink.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\refint\Array Posicion.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\Array Posicion.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Posicion\obj\Debug\net8.0\ref\Array Posicion.dll

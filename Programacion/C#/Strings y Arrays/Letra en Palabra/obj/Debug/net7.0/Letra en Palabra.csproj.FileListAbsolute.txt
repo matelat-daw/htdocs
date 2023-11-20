@@ -12,3 +12,4 @@ C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Letra en Palabra\obj\Debug\net7.0\Letra en Palabra.pdb
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Letra en Palabra\obj\Debug\net7.0\Letra en Palabra.genruntimeconfig.cache
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Letra en Palabra\obj\Debug\net7.0\ref\Letra en Palabra.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Letra en Palabra\obj\Debug\net7.0\Letra en Palabra.sourcelink.json
