@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IpoRRymD2l5WKksCNcrQfJ+zEoBdyjyxnu94FA//D3SjAT2li/quJ6lvVqQjMAgxMMdg/FmizLHG5XZVdI23gw==",
+  "dgSpecHash": "zIeNnSmfPNlmWf1m66I6qYBOmbOP2BEzN63N+wKwM14xHWFV/hJXmajyO2Lja0V/MeIAG/7m7lw8ENF/1/XFVw==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\C#\\Asignación y Cálculo\\Ejercicio-4-Entrega\\Ejercicio-4-Entrega.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Server\\htdocs\\C#\\Asignación y Cálculo\\Ejercicio-4-Entrega\\Ejercicio-4-Entrega.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

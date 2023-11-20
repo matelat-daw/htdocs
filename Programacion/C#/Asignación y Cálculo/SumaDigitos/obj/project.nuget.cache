@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n7h+bQi2gf2ORdJgJYTcoUNmcO19pM6KRq3jgQQqvm0ZjbZyjlWFFmToCVrRupZA4idFg5zFVoBFoMXiU8ltRQ==",
+  "dgSpecHash": "OtBdD9HCzSVatBetAy53uGA6qXwKd7KPFDuZFSsHZPDbf5v3LQdXz0OLdUsh73rlUQq7/Xl/FgO6uusA+Yu6Tw==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\C#\\Asignación y Cálculo\\SumaDigitos\\SumaDigitos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Server\\htdocs\\C#\\Asignación y Cálculo\\SumaDigitos\\SumaDigitos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

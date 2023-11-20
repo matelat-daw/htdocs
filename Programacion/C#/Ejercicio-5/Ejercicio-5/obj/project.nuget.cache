@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KxAblBXFHanX8KBodQiBYau48onWWuccx8Kr4sxyiXxI2xzsMhx02WjlUDYlAd4Cuy9XmkHLFT8LEoAhYonbEg==",
+  "dgSpecHash": "d9IbSrHNxsLD7wm85mXOena2TIHFtu8iEASZT/EOd6uDQkTU3tPe/fQhgNGd5LxgoidXsmW906iGgUcfb/qZPw==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\C#\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Server\\htdocs\\C#\\Ejercicio-5\\Ejercicio-5\\Ejercicio-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

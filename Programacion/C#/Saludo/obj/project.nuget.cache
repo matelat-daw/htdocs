@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yFhJLxVDag/Wt8Ok8Dnhi/fI/Rodi1Z2IOZxSvvs6qb4DZSU28rPtyOjoNUIdletC2M5SsjClgnegzX61xnBRw==",
+  "dgSpecHash": "jfzRj0N/ogUATSzbme0Qsz5DuaN0WHM3AiM1Li2Dx1uXfMwKCsAlrZ56pDpF56aBu8XNizxivH1DCL3tV+IC7Q==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\C#\\Saludo\\Saludo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Server\\htdocs\\C#\\Saludo\\Saludo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Test-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
