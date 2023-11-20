@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj": {}
+    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj": {
+    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj",
         "projectName": "Cuantas Vocales",
-        "projectPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj",
-        "packagesPath": "C:\\Users\\Orion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Entornos de Desarrollo\\C#\\Strings y Arrays\\Cuantas Vocales\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cuantas Vocales\\Cuantas Vocales.csproj",
+        "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cuantas Vocales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

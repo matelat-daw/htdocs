@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\bin\Debug\net8.0\Arrays Empleados Sueldos 2.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\bin\Debug\net8.0\Arrays Empleados Sueldos 2.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\bin\Debug\net8.0\Arrays Empleados Sueldos 2.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\bin\Debug\net8.0\Arrays Empleados Sueldos 2.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\bin\Debug\net8.0\Arrays Empleados Sueldos 2.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\refint\Arrays Empleados Sueldos 2.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\Arrays Empleados Sueldos 2.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Arrays Empleados Sueldos 2\obj\Debug\net8.0\ref\Arrays Empleados Sueldos 2.dll

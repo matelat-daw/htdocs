@@ -53,9 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Elimina Espacios", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Palíndromo", "Strings Palíndromo\Strings Palíndromo.csproj", "{CDA2EF94-8381-46E9-9219-9BA3809F6CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings Capicúa", "Strings Capicúa\Strings Capicúa.csproj", "{3F3277ED-13C1-4B2A-8938-EC0A6D15ED26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Capicúa", "Strings Capicúa\Strings Capicúa.csproj", "{3F3277ED-13C1-4B2A-8938-EC0A6D15ED26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings Mayúsculas Minúsculas", "Strings Mayúsculas Minúsculas\Strings Mayúsculas Minúsculas.csproj", "{C6EA8989-DE97-4ABA-AD9F-23D83449337C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Mayúsculas Minúsculas", "Strings Mayúsculas Minúsculas\Strings Mayúsculas Minúsculas.csproj", "{C6EA8989-DE97-4ABA-AD9F-23D83449337C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays Empleados Sueldos 2", "Arrays Empleados Sueldos 2\Arrays Empleados Sueldos 2.csproj", "{CB4B8906-58C7-4A09-9975-40C226FDD8E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{C6EA8989-DE97-4ABA-AD9F-23D83449337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6EA8989-DE97-4ABA-AD9F-23D83449337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6EA8989-DE97-4ABA-AD9F-23D83449337C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4B8906-58C7-4A09-9975-40C226FDD8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4B8906-58C7-4A09-9975-40C226FDD8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4B8906-58C7-4A09-9975-40C226FDD8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4B8906-58C7-4A09-9975-40C226FDD8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,7 @@
             {
                 Console.WriteLine("Este Programa Cuenta las Vocales que Aparecen en una Cadena Introducida por Teclado.\n");
                 Console.Write("Ingresa una Palabra: ");
-                cadena = Console.ReadLine();
+                cadena = Console.ReadLine().ToLower();
                 size = cadena.Length;
                 for (int n = 0; n < size; n++)
                 {

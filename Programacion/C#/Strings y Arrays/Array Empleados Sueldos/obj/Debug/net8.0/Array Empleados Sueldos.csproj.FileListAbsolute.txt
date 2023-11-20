@@ -13,3 +13,18 @@ C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.pdb
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.genruntimeconfig.cache
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\ref\Array Empleados Sueldos.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\bin\Debug\net8.0\Array Empleados Sueldos.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\bin\Debug\net8.0\Array Empleados Sueldos.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\bin\Debug\net8.0\Array Empleados Sueldos.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\bin\Debug\net8.0\Array Empleados Sueldos.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\bin\Debug\net8.0\Array Empleados Sueldos.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\refint\Array Empleados Sueldos.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\Array Empleados Sueldos.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Array Empleados Sueldos\obj\Debug\net8.0\ref\Array Empleados Sueldos.dll

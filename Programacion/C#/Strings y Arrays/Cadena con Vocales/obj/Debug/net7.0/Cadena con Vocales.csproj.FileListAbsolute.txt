@@ -12,3 +12,18 @@ C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.pdb
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.genruntimeconfig.cache
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\ref\Cadena con Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\bin\Debug\net7.0\Cadena con Vocales.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\bin\Debug\net7.0\Cadena con Vocales.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\bin\Debug\net7.0\Cadena con Vocales.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\bin\Debug\net7.0\Cadena con Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\bin\Debug\net7.0\Cadena con Vocales.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\refint\Cadena con Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\Cadena con Vocales.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cadena con Vocales\obj\Debug\net7.0\ref\Cadena con Vocales.dll

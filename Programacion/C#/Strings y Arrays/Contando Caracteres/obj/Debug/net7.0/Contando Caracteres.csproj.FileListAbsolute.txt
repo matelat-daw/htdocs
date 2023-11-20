@@ -12,3 +12,18 @@ C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.pdb
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.genruntimeconfig.cache
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\ref\Contando Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\bin\Debug\net7.0\Contando Caracteres.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\bin\Debug\net7.0\Contando Caracteres.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\bin\Debug\net7.0\Contando Caracteres.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\bin\Debug\net7.0\Contando Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\bin\Debug\net7.0\Contando Caracteres.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\refint\Contando Caracteres.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\Contando Caracteres.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Contando Caracteres\obj\Debug\net7.0\ref\Contando Caracteres.dll

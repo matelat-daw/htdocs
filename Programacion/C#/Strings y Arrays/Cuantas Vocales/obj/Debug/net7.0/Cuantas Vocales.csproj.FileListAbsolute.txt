@@ -12,3 +12,18 @@ C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.pdb
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.genruntimeconfig.cache
 C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\ref\Cuantas Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\bin\Debug\net7.0\Cuantas Vocales.exe
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\bin\Debug\net7.0\Cuantas Vocales.deps.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\bin\Debug\net7.0\Cuantas Vocales.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\bin\Debug\net7.0\Cuantas Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\bin\Debug\net7.0\Cuantas Vocales.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\refint\Cuantas Vocales.dll
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.pdb
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\Cuantas Vocales.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Strings y Arrays\Cuantas Vocales\obj\Debug\net7.0\ref\Cuantas Vocales.dll

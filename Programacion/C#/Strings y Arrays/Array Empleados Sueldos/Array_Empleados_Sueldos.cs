@@ -9,7 +9,11 @@
             int i;
             int[] total = new int[SIZE];
             string[] names = new string[SIZE];
-            int[,] salary = new int[4, 3];
+            // names = ["Ana", "Juan", "Rosa", "Manuel"];
+            // string[] months = ["Último", "Penúltimo", "Antepenúltimo"];
+            // int[,] salary = new int[names.Length, months.Length];
+            int[,] salary = new int[SIZE, SIZE - 1];
+            Random sueldo = new Random();
             bool ok = false;
 
             Console.WriteLine("Este Programa Almacena los Sueldos de los Últimos 3 Meses de 4 Empleados e Informa quien es el que Más Gana.");
