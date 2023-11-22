@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\bin\Debug\net8.0\Código de Error.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\bin\Debug\net8.0\Código de Error.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\bin\Debug\net8.0\Código de Error.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\bin\Debug\net8.0\Código de Error.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\bin\Debug\net8.0\Código de Error.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\refint\Código de Error.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\Código de Error.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Código de Error\obj\Debug\net8.0\ref\Código de Error.dll
