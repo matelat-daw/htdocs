@@ -9,9 +9,9 @@ namespace Arrays_Empleados_Sueldos_2
             const int SIZE = 4;
             int[] total = new int[SIZE];
             String[] nombres;
-            nombres = new String[] { "Pedro", "Andrea", "Gracia", "Eva" };
+            nombres = new String[] {"Pedro", "Andrea", "Gracia", "Eva"};
 
-            String[] meses = { "Último", "Penúltimo", "Antepenúltimo" };
+            String[] meses = {"Último", "Penúltimo", "Antepenúltimo"};
             int pers, m;
             int[,] sueldos;
             //sueldos = new int[,]
@@ -29,7 +29,7 @@ namespace Arrays_Empleados_Sueldos_2
                 for (pers = 0; pers < sueldos.GetLength(1); pers++)
                 {
                     sueldos[m, pers] = azar.Next(100, 201) * 10;
-                    // total[pers] += sueldos[m, pers];
+                    total[pers] += sueldos[m, pers];
                 }
             }
 
@@ -52,7 +52,12 @@ namespace Arrays_Empleados_Sueldos_2
                     Console.Write("\t{0}", sueldos[m, pers]);
                 }
                 Console.WriteLine();
-                // Console.Write("\t{0}", total[pers]);
+            }
+            Console.WriteLine();
+            Console.Write(" TOTALES: ");
+            for (int i = 0; i < total.Length; i++)
+            {
+                Console.Write("\t{0}", total[i]);
             }
         }
     }

@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Capicúa", "Strings
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings Mayúsculas Minúsculas", "Strings Mayúsculas Minúsculas\Strings Mayúsculas Minúsculas.csproj", "{C6EA8989-DE97-4ABA-AD9F-23D83449337C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings ISBN Int", "Strings ISBN Int\Strings ISBN Int.csproj", "{5A875556-2AC8-4F97-BB1C-E7710B07BEE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings ISBN Int", "Strings ISBN Int\Strings ISBN Int.csproj", "{5A875556-2AC8-4F97-BB1C-E7710B07BEE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays Empleados Sueldos 2", "Arrays Empleados Sueldos 2\Arrays Empleados Sueldos 2.csproj", "{BD9AA740-0392-4398-AB25-51103930E7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{5A875556-2AC8-4F97-BB1C-E7710B07BEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A875556-2AC8-4F97-BB1C-E7710B07BEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A875556-2AC8-4F97-BB1C-E7710B07BEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9AA740-0392-4398-AB25-51103930E7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9AA740-0392-4398-AB25-51103930E7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9AA740-0392-4398-AB25-51103930E7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9AA740-0392-4398-AB25-51103930E7C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

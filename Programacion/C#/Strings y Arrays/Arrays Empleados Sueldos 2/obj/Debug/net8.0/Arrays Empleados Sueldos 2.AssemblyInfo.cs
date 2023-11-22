@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays Empleados Sueldos 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1b7400c3ce29b5a0c990ab3d3e4c7acdef2f024")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9dfb77810cafdbda42684e7a3aa3082940aff44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays Empleados Sueldos 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays Empleados Sueldos 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

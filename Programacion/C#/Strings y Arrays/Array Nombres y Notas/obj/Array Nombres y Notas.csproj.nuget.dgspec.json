@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj": {}
+    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj": {
+    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
         "projectName": "Array Nombres y Notas",
-        "projectPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
-        "packagesPath": "C:\\Users\\Orion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orion\\Documents\\César Manrique\\DAW\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
+        "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
