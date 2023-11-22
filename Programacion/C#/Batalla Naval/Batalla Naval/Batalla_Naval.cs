@@ -1,7 +1,4 @@
-﻿using System.Xml.Linq;
-using System;
-
-namespace Batalla_Naval
+﻿namespace Batalla_Naval
 {
     internal class Batalla_Naval
     {
@@ -13,6 +10,7 @@ namespace Batalla_Naval
             char[,] tablero = new char[SIZE, SIZE]; // Array que Contiene los Barcos.
             int[] cont = new int[2]; // Contador Para Saber si se han Hundido los Barcos, la Posición 0 es para el Barco 1 y la Posición 1 para el Barco 2.
             bool win = false; // Para Saber si el Jugador Gano o Salió sin Jugar.
+            bool d3 = false, d4 = false, d5 = false, d6 = false, g8 = false, h8 = false, i8 = false;
 
             for (int i = 0; i < SIZE; i++) // Doble Bucle Para Dibujar el Agua y el Tablero, El Bucle Externo Dibuja las Filas.
             {
@@ -57,32 +55,60 @@ namespace Batalla_Naval
                 switch (coord) // Hago un switch a la Coordenada.
                 {
                     case "D3": // Aquí tengo solo las Coordenadas Donde Están Ubicados los dos Barcos.
-                        agua[2, 3] = '*'; // Si Introduce Alguna de las Coordenadas, Dibujo un Asterisco en la Casilla que Ocupa el Barco.
-                        cont[0]++; // Incremento el Contador de Barco 1 Tocado.
+                        if (!d3)
+                        {
+                            d3 = true;
+                            agua[2, 3] = '*'; // Si Introduce Alguna de las Coordenadas, Dibujo un Asterisco en la Casilla que Ocupa el Barco.
+                            cont[0]++; // Incremento el Contador de Barco 1 Tocado.
+                        }
                         break;
                     case "D4":
-                        agua[3, 3] = '*';
-                        cont[0]++;
+                        if (!d4)
+                        {
+                            d4 = true;
+                            agua[3, 3] = '*';
+                            cont[0]++;
+                        }
                         break;
                     case "D5":
-                        agua[4, 3] = '*';
-                        cont[0]++;
+                        if (!d5)
+                        {
+                            d5 = true;
+                            agua[4, 3] = '*';
+                            cont[0]++;
+                        }
                         break;
                     case "D6":
-                        agua[5, 3] = '*';
-                        cont[0]++;
+                        if (!d6)
+                        {
+                            d6 = true;
+                            agua[5, 3] = '*';
+                            cont[0]++;
+                        }
                         break;
                     case "G8":
-                        agua[7, 6] = '*';
-                        cont[1]++; // Aquí Incremento el Contador de Barco 2 Tocado.
+                        if (!g8)
+                        {
+                            g8 = true;
+                            agua[7, 6] = '*';
+                            cont[1]++; // Aquí Incremento el Contador de Barco 2 Tocado.
+                        }
                         break;
                     case "H8":
-                        agua[7, 7] = '*';
-                        cont[1]++;
+                        if (!h8)
+                        {
+                            h8 = true;
+                            agua[7, 7] = '*';
+                            cont[1]++;
+                        }
                         break;
                     case "I8":
-                        agua[7, 8] = '*';
-                        cont[1]++;
+                        if (!i8)
+                        {
+                            i8 = true;
+                            agua[7, 8] = '*';
+                            cont[1]++;
+                        }
                         break;
                 }
                 Console.WriteLine();
