@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dia Siguiente/1.0.0": {
+        "runtime": {
+          "Dia Siguiente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dia Siguiente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

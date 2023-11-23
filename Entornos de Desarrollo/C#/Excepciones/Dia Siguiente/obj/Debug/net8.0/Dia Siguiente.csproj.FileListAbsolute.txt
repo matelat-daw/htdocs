@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\bin\Debug\net8.0\Dia Siguiente.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\bin\Debug\net8.0\Dia Siguiente.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\bin\Debug\net8.0\Dia Siguiente.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\bin\Debug\net8.0\Dia Siguiente.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\bin\Debug\net8.0\Dia Siguiente.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\refint\Dia Siguiente.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\Dia Siguiente.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Excepciones\Dia Siguiente\obj\Debug\net8.0\ref\Dia Siguiente.dll

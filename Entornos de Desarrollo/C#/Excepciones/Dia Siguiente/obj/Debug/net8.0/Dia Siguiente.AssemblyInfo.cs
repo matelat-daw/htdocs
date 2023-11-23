@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Código de Error")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Dia Siguiente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bc8f453ec8014306946980daa5135a349a30b80")]
-[assembly: System.Reflection.AssemblyProductAttribute("Código de Error")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Código de Error")]
+[assembly: System.Reflection.AssemblyProductAttribute("Dia Siguiente")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Dia Siguiente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

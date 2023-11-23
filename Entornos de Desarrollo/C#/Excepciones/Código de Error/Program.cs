@@ -6,11 +6,12 @@
         {
             string result;
             int num;
-            string exit = "s";
+            string continua = "s";
+            const double PI = 3.141596;
 
             Console.WriteLine("Programa Tabla de Multiplicar\n");
             Console.Write("Ingresa el Número Para ver su Tabla de Multiplicar: ");
-            while (exit == "s")
+            while (continua == "s")
             {
                 num = Convert.ToInt16(Console.ReadLine());
                 Console.WriteLine("\n");
@@ -18,12 +19,12 @@
                 {
                     if (num * i > 75)
                     {
-                        Console.WriteLine("Esos Valores Son Muy Altos Para Ti. ¡CUIDADO!");
+                        Console.WriteLine("Esos Valores Son Muy Altos. ¡CUIDADO!");
                     }
                     Console.WriteLine("{0} x {1} = {2}", i, num, num * i);
                 }
                 Console.WriteLine("Deseas Ver Otra Tabla?, Presiona s para Continuar, Cualquier Otra Tecla Para Salir: ");
-                exit = Console.ReadLine();
+                continua = Console.ReadLine();
                 Console.Clear();
             }
         }

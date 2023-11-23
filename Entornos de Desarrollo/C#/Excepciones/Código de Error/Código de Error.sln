@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Código de Error", "Código de Error.csproj", "{60B361C4-A6D6-484B-963C-9F930967207D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Código de Error", "Código de Error.csproj", "{60B361C4-A6D6-484B-963C-9F930967207D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia Siguiente", "..\Dia Siguiente\Dia Siguiente.csproj", "{9095D1F5-3064-4975-AB62-9372E89E7ABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{60B361C4-A6D6-484B-963C-9F930967207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60B361C4-A6D6-484B-963C-9F930967207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60B361C4-A6D6-484B-963C-9F930967207D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9095D1F5-3064-4975-AB62-9372E89E7ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9095D1F5-3064-4975-AB62-9372E89E7ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9095D1F5-3064-4975-AB62-9372E89E7ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9095D1F5-3064-4975-AB62-9372E89E7ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
