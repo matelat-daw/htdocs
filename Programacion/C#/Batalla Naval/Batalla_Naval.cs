@@ -101,7 +101,7 @@ namespace Batalla_Naval
                 }
                 if (contador[0] == 4 && contador[1] == 3)
                 {
-                    Console.WriteLine("Ganaste, Has Hundido toda la Flota!");
+                    Console.WriteLine("Ganaste, Has Hundido Toda la Flota!");
                     coords = "";
                 }
             }
