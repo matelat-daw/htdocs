@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj",
         "projectName": "La Isla",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\La Isla.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Batalla Naval\\La Isla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

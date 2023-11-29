@@ -63,7 +63,7 @@
                         columna = i;
                     }
                 }
-                fila = (Convert.ToByte(coord.Substring(1,1))) - 1;
+                fila = Convert.ToByte(coord.Substring(1)) - 1;
                 Console.WriteLine(fila);
                 if (tablero[fila, columna] != '~')
                 {
