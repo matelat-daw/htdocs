@@ -1,0 +1,15 @@
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\bin\Debug\net8.0\Excepciones del IDE.exe
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\bin\Debug\net8.0\Excepciones del IDE.deps.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\bin\Debug\net8.0\Excepciones del IDE.runtimeconfig.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\bin\Debug\net8.0\Excepciones del IDE.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\bin\Debug\net8.0\Excepciones del IDE.pdb
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.AssemblyInfoInputs.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.AssemblyInfo.cs
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.csproj.CoreCompileInputs.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.sourcelink.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\refint\Excepciones del IDE.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.pdb
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\Excepciones del IDE.genruntimeconfig.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Excepciones del IDE\obj\Debug\net8.0\ref\Excepciones del IDE.dll

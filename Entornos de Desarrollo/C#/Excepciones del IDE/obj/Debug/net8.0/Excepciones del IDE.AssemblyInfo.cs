@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio4")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Excepciones del IDE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ejercicio4")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb8eaccd88e68acd870acbc33a93b080606d2fa")]
+[assembly: System.Reflection.AssemblyProductAttribute("Excepciones del IDE")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Excepciones del IDE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

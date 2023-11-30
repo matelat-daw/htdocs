@@ -1,10 +1,10 @@
 ﻿string cadena;
-// Int32 factorial; // Int32 = De -2.147.483.648 a 2.147.483.647
-// Byte factorial; // Byte = De 0 a 255;
-ulong factorial; // UInt64 = De 0 a 18.446.744.073.709.551.615
-Console.WriteLine("Introduzca un número para calcular el factorial: ");
+// int factorial; // Int32 = De -2.147.483.648 a 2.147.483.647
+Byte factorial; // Byte = De 0 a 255;
+// ulong factorial; // UInt64 = De 0 a 18.446.744.073.709.551.615
+Console.WriteLine("Introduzce un número para calcular el factorial: (Entero 32 bits máximo 12, puedes probar con otros pero el resultado no es el correcto)");
 cadena = Console.ReadLine();
-factorial = Convert.ToUInt64(cadena);
+factorial = Convert.ToByte(cadena);
 bool error = false;
 
 if (factorial < 0)
@@ -17,9 +17,9 @@ if (factorial == 0)
 }
 if (factorial > 0)
 {
-    ulong i = factorial - 1;
-    ulong anterior;
-    ulong cont = 0;
+    Byte  i = Convert.ToByte(factorial - 1);
+    Byte anterior;
+    Byte cont = 0;
     while (i > 1)
     {
         anterior = factorial;
@@ -33,8 +33,8 @@ if (factorial > 0)
         }
         catch (OverflowException o)
         {
-            Console.WriteLine("Hubo un Desbordamiento de Entero en la Vuelta: {0}, Cuando se Multiplicó {1} x {2}.\n", cont, cadena, Convert.ToUInt64(cadena) - cont);
-            Console.WriteLine("El Valor del Factorial Antes del Error era: {0}; y al Multiplicarlo x {1} Tomó el Valor: {2}", anterior, Convert.ToUInt64(cadena) - cont, factorial * (Convert.ToUInt64(cadena) - cont));
+            Console.WriteLine("Hubo un Desbordamiento de Entero en la Vuelta: {0}, Cuando se Multiplicó {1} x {2}.\n", cont, cadena, Convert.ToUInt32(cadena) - cont);
+            Console.WriteLine("El Valor del Factorial Antes del Error era: {0}; y al Multiplicarlo x {1} Tomó el Valor: {2}", anterior, Convert.ToUInt32(cadena) - cont, factorial * (Convert.ToUInt32(cadena) - cont));
             i = 1;
             error = true;
         }
