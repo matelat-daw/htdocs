@@ -1,0 +1,44 @@
+C:\Users\aleja\source\repos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.exe
+C:\Users\aleja\source\repos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.deps.json
+C:\Users\aleja\source\repos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+C:\Users\aleja\source\repos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.dll
+C:\Users\aleja\source\repos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.pdb
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.dll
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\refint\Ejercicio4.dll
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.pdb
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Ejercicio4\obj\Debug\net6.0\ref\Ejercicio4.dll
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\bin\Debug\net6.0\Ejercicio4.exe
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\bin\Debug\net6.0\Ejercicio4.deps.json
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\bin\Debug\net6.0\Ejercicio4.dll
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\bin\Debug\net6.0\Ejercicio4.pdb
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.dll
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\refint\Ejercicio4.dll
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.pdb
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+C:\Users\Samuel\OneDrive - Portal Office del GOBIERNO DE CANARIAS\Curso 23-24\ETS\UT03 - Funciones avanzadas en entornos de desarrollo\Ejercicios\Factorial\obj\Debug\net6.0\ref\Ejercicio4.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\bin\Debug\net6.0\Ejercicio4.exe
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\bin\Debug\net6.0\Ejercicio4.deps.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\bin\Debug\net6.0\Ejercicio4.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\bin\Debug\net6.0\Ejercicio4.pdb
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.sourcelink.json
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\refint\Ejercicio4.dll
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.pdb
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+C:\xampp-Old\htdocs\Entornos de Desarrollo\C#\Factorial\obj\Debug\net6.0\ref\Ejercicio4.dll

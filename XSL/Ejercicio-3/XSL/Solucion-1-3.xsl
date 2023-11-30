@@ -7,14 +7,23 @@
 <title>Biblioteca</title>
 </head>
 <body>
-<h1>Listado Libros</h1>
-<ul>
+<h1>Libros con puntuación</h1>
+<table>
+<tr>
+<th>Posición</th>
+<th>Título</th>
+<th>Puntos</th>
+</tr>
 <xsl:apply-templates/>
-</ul>
+</table>
 </body>
 </html>
   </xsl:template>
   <xsl:template match="libro">
-    <li>Título-<xsl:value-of select="titulo"/></li>  
+  <tr>
+    <td><xsl:value-of select="position()"/></td>  
+    <td><xsl:value-of select="titulo"/></td>
+    <td><xsl:value-of select="puntos"/></td>
+  </tr>
   </xsl:template>
 </xsl:stylesheet>

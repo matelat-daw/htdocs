@@ -15,6 +15,6 @@
 </html>
   </xsl:template>
   <xsl:template match="libro">
-    <li>Título-<xsl:value-of select="titulo"/></li>  
+    <li>Título-<xsl:value-of select="titulo"/>( <xsl:value-of select="autor"/> - <xsl:value-of select="fechaPublicacion/@año"/>)</li>  
   </xsl:template>
 </xsl:stylesheet>
