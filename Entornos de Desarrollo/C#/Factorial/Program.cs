@@ -1,8 +1,12 @@
 ﻿string cadena;
-Int32 factorial;
+// Int32 factorial; // Int32 = De -2.147.483.648 a 2.147.483.647
+// Byte factorial; // Byte = De 0 a 255;
+ulong factorial; // UInt64 = De 0 a 18.446.744.073.709.551.615
 Console.WriteLine("Introduzca un número para calcular el factorial: ");
 cadena = Console.ReadLine();
-factorial = Convert.ToByte(cadena);
+factorial = Convert.ToUInt64(cadena);
+bool error = false;
+
 if (factorial < 0)
 {
     Console.WriteLine("No se puede calcular el factorial de un número negativo.");
@@ -13,12 +17,33 @@ if (factorial == 0)
 }
 if (factorial > 0)
 {
-    int i = factorial - 1;
+    ulong i = factorial - 1;
+    ulong anterior;
+    ulong cont = 0;
     while (i > 1)
     {
-        factorial = factorial * i;
+        anterior = factorial;
+        try
+        {
+            checked
+            {
+                cont++;
+                factorial *= i;
+            }
+        }
+        catch (OverflowException o)
+        {
+            Console.WriteLine("Hubo un Desbordamiento de Entero en la Vuelta: {0}, Cuando se Multiplicó {1} x {2}.\n", cont, cadena, Convert.ToUInt64(cadena) - cont);
+            Console.WriteLine("El Valor del Factorial Antes del Error era: {0}; y al Multiplicarlo x {1} Tomó el Valor: {2}", anterior, Convert.ToUInt64(cadena) - cont, factorial * (Convert.ToUInt64(cadena) - cont));
+            i = 1;
+            error = true;
+        }
         i--;
     }
-    Console.WriteLine("El factorial de " + cadena + " es: " + factorial);
+    if (!error)
+    {
+        Console.WriteLine("El factorial de " + cadena + " es " + factorial);
+    }
 }
+Console.WriteLine("\nPresiona Enter Tecla Para Salir.");
 Console.ReadKey();
