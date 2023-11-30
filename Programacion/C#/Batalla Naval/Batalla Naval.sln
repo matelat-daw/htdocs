@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Batalla Naval", "Batalla Na
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "La Isla", "La Isla\La Isla.csproj", "{6E90173B-55C6-4AEF-A765-94F9DE995F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajedrez", "Ajedrez\Ajedrez.csproj", "{7BB6EF00-F9F4-4BAC-A046-A9E5A6CB6E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajedrez", "Ajedrez\Ajedrez.csproj", "{7BB6EF00-F9F4-4BAC-A046-A9E5A6CB6E27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeD Array", "ThreeD Array\ThreeD Array.csproj", "{4327B4B4-FC12-48A8-BC7E-9F29FA267AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pair the Words Game", "Pair the Words Game\Pair the Words Game.csproj", "{957BEDCB-0B7F-42C6-A7B0-507574087FF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{7BB6EF00-F9F4-4BAC-A046-A9E5A6CB6E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BB6EF00-F9F4-4BAC-A046-A9E5A6CB6E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BB6EF00-F9F4-4BAC-A046-A9E5A6CB6E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4327B4B4-FC12-48A8-BC7E-9F29FA267AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4327B4B4-FC12-48A8-BC7E-9F29FA267AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4327B4B4-FC12-48A8-BC7E-9F29FA267AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4327B4B4-FC12-48A8-BC7E-9F29FA267AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957BEDCB-0B7F-42C6-A7B0-507574087FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957BEDCB-0B7F-42C6-A7B0-507574087FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957BEDCB-0B7F-42C6-A7B0-507574087FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957BEDCB-0B7F-42C6-A7B0-507574087FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

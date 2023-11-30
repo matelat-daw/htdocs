@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\bin\Debug\net8.0\Pair the Words Game.exe
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\bin\Debug\net8.0\Pair the Words Game.deps.json
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\bin\Debug\net8.0\Pair the Words Game.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\bin\Debug\net8.0\Pair the Words Game.dll
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\bin\Debug\net8.0\Pair the Words Game.pdb
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.dll
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\refint\Pair the Words Game.dll
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.pdb
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\Pair the Words Game.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Batalla Naval\Pair the Words Game\obj\Debug\net8.0\ref\Pair the Words Game.dll
