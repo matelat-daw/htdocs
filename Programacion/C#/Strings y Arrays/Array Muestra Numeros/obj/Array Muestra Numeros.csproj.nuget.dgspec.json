@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj",
         "projectName": "Array Muestra Numeros",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\Array Muestra Numeros.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Muestra Numeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

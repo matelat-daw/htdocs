@@ -41,8 +41,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Aleatorio Cien", "Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Empleados Sueldos", "Array Empleados Sueldos\Array Empleados Sueldos.csproj", "{838DAAE5-BCCC-43B2-8FC7-CF26F0A3DCCB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Aleatorio Cien 2", "Array Aleatorio 100 2\Array Aleatorio Cien 2.csproj", "{F33CF12A-A321-4D56-B79D-AFED6EF6515A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Menor Mayor", "Array Menor Mayor\Array Menor Mayor.csproj", "{3CABB6C6-D469-4899-AFFC-35ADD6AD1C4E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings ISBN", "Strings ISBN\Strings ISBN.csproj", "{4E75198D-7FA3-4CE3-8B45-704D2D82E08F}"

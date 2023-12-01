@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj",
         "projectName": "Array Decimales Media",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\Array Decimales Media.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Decimales Media\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

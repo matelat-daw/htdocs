@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj",
         "projectName": "Datos Personales",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\Datos Personales.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Datos Personales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

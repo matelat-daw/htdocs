@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj",
         "projectName": "Strings ISBN",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\Strings ISBN.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings ISBN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

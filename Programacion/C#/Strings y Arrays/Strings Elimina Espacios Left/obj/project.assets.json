@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\Strings Elimina Espacios.csproj",
+      "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\Strings Elimina Espacios.csproj",
       "projectName": "Strings Elimina Espacios",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\Strings Elimina Espacios.csproj",
+      "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\Strings Elimina Espacios.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\obj\\",
+      "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Elimina Espacios Left\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

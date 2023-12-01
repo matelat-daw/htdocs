@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj": {}
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj": {
+    "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj",
+        "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj",
         "projectName": "Cadena Dentro de Cadena",
-        "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj",
+        "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\Cadena Dentro de Cadena.csproj",
         "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\obj\\",
+        "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Cadena Dentro de Cadena\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\Strings Mayúsculas Minúsculas.csproj",
+      "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\Strings Mayúsculas Minúsculas.csproj",
       "projectName": "Strings Mayúsculas Minúsculas",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\Strings Mayúsculas Minúsculas.csproj",
+      "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\Strings Mayúsculas Minúsculas.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\obj\\",
+      "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Strings Mayúsculas Minúsculas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

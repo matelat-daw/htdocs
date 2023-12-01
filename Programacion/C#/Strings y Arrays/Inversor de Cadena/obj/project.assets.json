@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\Inversor de Cadena.csproj",
+      "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\Inversor de Cadena.csproj",
       "projectName": "Inversor de Cadena",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\Inversor de Cadena.csproj",
+      "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\Inversor de Cadena.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\obj\\",
+      "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Inversor de Cadena\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
+      "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
       "projectName": "Array Nombres y Notas",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
+      "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\Array Nombres y Notas.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\obj\\",
+      "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Array Nombres y Notas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",

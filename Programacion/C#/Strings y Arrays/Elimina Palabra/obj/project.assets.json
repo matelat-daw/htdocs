@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\Elimina Palabra.csproj",
+      "projectUniqueName": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\Elimina Palabra.csproj",
       "projectName": "Elimina Palabra",
-      "projectPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\Elimina Palabra.csproj",
+      "projectPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\Elimina Palabra.csproj",
       "packagesPath": "C:\\Users\\orion\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\obj\\",
+      "outputPath": "C:\\xampp-Old\\htdocs\\Programacion\\C#\\Strings y Arrays\\Elimina Palabra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orion\\AppData\\Roaming\\NuGet\\NuGet.Config",
